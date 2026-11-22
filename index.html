@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Ruta Asia 2027</title>
+<meta name="description" content="Acceso a la app del viaje Ruta Asia 2027.">
+<meta name="theme-color" content="#15244F">
+<meta name="apple-mobile-web-app-title" content="Ruta Asia">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="icon" type="image/png" href="favicon.png">
+<script>
+  // Abierto desde el ícono de inicio (?go=1): ir directo a la app.
+  var APP = "https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h";
+  if (/[?&]go=1/.test(location.search)) location.replace(APP);
+</script>
+<style>
+  :root{--bg:#FAFAF8;--ink:#1C1C1E;--muted:#8E8E93;--line:#E5E5EA;--accent:#D92D20;--navy:#15244F;--card:#fff}
+  @media (prefers-color-scheme:dark){:root{--bg:#000;--ink:#F2F2F7;--muted:#98989F;--line:#2C2C2E;--card:#1C1C1E}}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 -apple-system,BlinkMacSystemFont,"SF Pro Text",Inter,system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+  main{max-width:520px;margin:0 auto;padding:max(28px,env(safe-area-inset-top)) 16px 40px}
+  .hero{display:flex;align-items:center;gap:16px;margin:8px 0 22px}
+  .hero img{width:76px;height:76px;border-radius:18px;box-shadow:0 6px 20px rgba(21,36,79,.25)}
+  h1{font-size:28px;line-height:1.15;margin:0;letter-spacing:-.02em}
+  .sub{color:var(--muted);margin:2px 0 0;font-size:15px}
+  .card{background:var(--card);border-radius:16px;padding:16px;margin:12px 0;box-shadow:0 1px 2px rgba(0,0,0,.05),0 4px 16px rgba(0,0,0,.04)}
+  .card h2{font-size:17px;margin:0 0 8px}
+  ol{margin:0;padding-left:20px}
+  li{margin:6px 0}
+  b{font-weight:600}
+  .btn{display:flex;align-items:center;justify-content:center;width:100%;min-height:50px;border-radius:14px;background:var(--accent);color:#fff;font-weight:600;font-size:17px;text-decoration:none;border:0;margin:6px 0}
+  .btn.sec{background:var(--line);color:var(--ink)}
+  .note{font-size:13px;color:var(--muted);margin:14px 2px}
+  .tag{display:inline-block;font-size:12px;font-weight:600;color:var(--accent);background:rgba(217,45,32,.1);border-radius:6px;padding:1px 7px;margin-left:6px;vertical-align:2px}
+  .hide{display:none}
+</style>
+</head>
+<body>
+<main>
+  <div class="hero"><img src="icon-192.png" alt=""><div><h1>Ruta Asia 2027</h1><p class="sub">Itinerario, reservas y gastos del viaje</p></div></div>
+
+  <a class="btn" id="open" href="https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h">Abrir la app</a>
+
+  <div class="card" id="ios">
+    <h2>iPhone <span class="tag">Safari</span></h2>
+    <ol>
+      <li>Abre esta página en <b>Safari</b>.</li>
+      <li>Toca <b>Compartir</b> (el cuadrado con la flecha hacia arriba).</li>
+      <li>Elige <b>"Agregar a inicio"</b> y luego <b>"Agregar"</b>.</li>
+    </ol>
+  </div>
+
+  <div class="card" id="android">
+    <h2>Android <span class="tag">Chrome</span></h2>
+    <ol>
+      <li>Abre esta página en <b>Chrome</b>.</li>
+      <li>Toca el menú <b>⋮</b> arriba a la derecha.</li>
+      <li>Elige <b>"Agregar a pantalla principal"</b> y luego <b>"Agregar"</b>.</li>
+    </ol>
+    <button class="btn sec hide" id="install" type="button">Instalar ahora</button>
+  </div>
+
+  <p class="note">Al tocar el ícono se abre la app del viaje. La primera vez inicia sesión con tu cuenta de Claude, así tus casillas y gastos quedan sincronizados con el grupo.</p>
+</main>
+<script>
+  // Para que el ícono guardado abra directo la app, la dirección guardada lleva ?go=1.
+  try { if (!/[?&]go=1/.test(location.search)) history.replaceState(null, "", location.pathname + "?go=1"); } catch (e) {}
+  var ua = navigator.userAgent;
+  var isIOS = /iPhone|iPad|iPod/.test(ua) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+  var isAndroid = /Android/.test(ua);
+  if (isIOS) document.getElementById("android").classList.add("hide");
+  if (isAndroid) document.getElementById("ios").classList.add("hide");
+  var deferred = null;
+  window.addEventListener("beforeinstallprompt", function (e) { e.preventDefault(); deferred = e; document.getElementById("install").classList.remove("hide"); });
+  document.getElementById("install").addEventListener("click", function () { if (deferred) { deferred.prompt(); deferred = null; } });
+</script>
+</body>
+</html>
