@@ -1,0 +1,2402 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ruta Asia 2027//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ruta Asia 2027
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:dia-2027-01-21@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270121T120000Z
+DTEND:20270121T121500Z
+SUMMARY:Día 1 · Salida desde Santiago · parte 21:55 Vuelo Air Canada S
+ CL → Toronto (YYZ)
+DESCRIPTION:Santiago → Toronto — Salida desde Santiago\n\n21:55 · Vu
+ elo Air Canada SCL → Toronto (YYZ)\n   Llega vie 22 a las 06:40 · 10 
+ h 45 de vuelo\n\n★ Tener la eTA de Canadá aprobada antes de salir: se
+  exige incluso en tránsito.\n\nDetalle\, mapas y tarjetas de taxi en la
+  app: https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 1 · Salida desde Santiago · parte 21:55 Vuelo Air Cana
+ da SCL → Toronto (YYZ)
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-01-22@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270122T123000Z
+DTEND:20270122T124500Z
+SUMMARY:Día 2 · Día de vuelos · parte 08:40 Toronto (YYZ) → Vancouv
+ er (YVR)
+DESCRIPTION:Toronto → Vancouver → Seúl — Día de vuelos\n\n08:40 
+ · Toronto (YYZ) → Vancouver (YVR)\n   Llega 11:52 · escala previa de
+  2 h en Toronto\n13:20 · Vancouver (YVR) → Seúl Incheon (ICN)\n   Ll
+ ega sáb 23 a las 17:10 · 11 h 50 de vuelo\n\n⚠ Ojo: Conexión en Van
+ couver de solo 1 h 28 min. Pregunten en Toronto si las maletas van direc
+ to y si hay que cambiar de terminal.\n\n★ A la ida no hay tiempo de sa
+ lir del aeropuerto: escalas de 2 h en Toronto y 1 h 28 en Vancouver. A l
+ a vuelta sí (ver vie 19 y sáb 20).\n\nDetalle\, mapas y tarjetas de ta
+ xi en la app: https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 2 · Día de vuelos · parte 08:40 Toronto (YYZ) → Van
+ couver (YVR)
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-01-22@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270122T020000Z
+DTEND:20270122T021000Z
+SUMMARY:Mañana: Día de vuelos · primera actividad 08:40
+DESCRIPTION:Toronto → Vancouver → Seúl — Día de vuelos\n\n08:40 
+ · Toronto (YYZ) → Vancouver (YVR)\n   Llega 11:52 · escala previa de
+  2 h en Toronto\n13:20 · Vancouver (YVR) → Seúl Incheon (ICN)\n   Ll
+ ega sáb 23 a las 17:10 · 11 h 50 de vuelo\n\n⚠ Ojo: Conexión en Van
+ couver de solo 1 h 28 min. Pregunten en Toronto si las maletas van direc
+ to y si hay que cambiar de terminal.\n\n★ A la ida no hay tiempo de sa
+ lir del aeropuerto: escalas de 2 h en Toronto y 1 h 28 en Vancouver. A l
+ a vuelta sí (ver vie 19 y sáb 20).\n\nDetalle\, mapas y tarjetas de ta
+ xi en la app: https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Día de vuelos · primera actividad 08:40
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-01-23@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270122T223000Z
+DTEND:20270122T224500Z
+SUMMARY:Día 3 · Llegada a Seúl · parte 17:10 Llegada a Incheon y tras
+ lado a Seúl
+DESCRIPTION:Seúl — Llegada a Seúl\nAlojamiento: Manso Hostel\n\n17:10
+  · Llegada a Incheon y traslado a Seúl (인천국제공항)\n   Compra
+ r T-money en el aeropuerto (tiendas de conveniencia). AREX al centro ~45
+ –60 min.\nNoche · Recorrer el barrio del hostal\n   Día suave por el
+  viaje largo.\nNoche · Cena coreana sencilla cerca del hostal\n   Prime
+ ra noche: kimchi jjigae o tteokbokki en cualquier local de barrio.\n\n
+ ★ Tienda de skincare: Off Beauty. Pop-ups en Seongsu (está propuesto 
+ para el lunes).\n\nDetalle\, mapas y tarjetas de taxi en la app: https:/
+ /claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 3 · Llegada a Seúl · parte 17:10 Llegada a Incheon y 
+ traslado a Seúl
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-01-23@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270122T120000Z
+DTEND:20270122T121000Z
+SUMMARY:Mañana: Llegada a Seúl · primera actividad 17:10
+DESCRIPTION:Seúl — Llegada a Seúl\nAlojamiento: Manso Hostel\n\n17:10
+  · Llegada a Incheon y traslado a Seúl (인천국제공항)\n   Compra
+ r T-money en el aeropuerto (tiendas de conveniencia). AREX al centro ~45
+ –60 min.\nNoche · Recorrer el barrio del hostal\n   Día suave por el
+  viaje largo.\nNoche · Cena coreana sencilla cerca del hostal\n   Prime
+ ra noche: kimchi jjigae o tteokbokki en cualquier local de barrio.\n\n
+ ★ Tienda de skincare: Off Beauty. Pop-ups en Seongsu (está propuesto 
+ para el lunes).\n\nDetalle\, mapas y tarjetas de taxi en la app: https:/
+ /claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Llegada a Seúl · primera actividad 17:10
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:act-s23-icn@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270123T081000Z
+DTEND:20270123T094000Z
+SUMMARY:Llegada a Incheon y traslado a Seúl · 인천국제공항
+DESCRIPTION:Comprar T-money en el aeropuerto (tiendas de conveniencia). A
+ REX al centro ~45–60 min.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-01-24@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270123T223000Z
+DTEND:20270123T224500Z
+SUMMARY:Día 4 · Palacios y casas tradicionales · parte 09:00 Palacio C
+ hangdeokgung
+DESCRIPTION:Seúl — Palacios y casas tradicionales\nAlojamiento: Manso 
+ Hostel\n\n09:00 · Palacio Changdeokgung (창덕궁)\n   Cierra los lune
+ s\, por eso va hoy. El Jardín Secreto (Huwon) es con tour y cupo: reser
+ var.\n11:30 · Bukchon Hanok Village (북촌한옥마을)\n   Barrio res
+ idencial: visitar en silencio\, horario de visita 10–17 h.\n13:00 · A
+ lmuerzo y paseo por Insadong (인사동)\n   Calle de té\, artesanía y
+  comida tradicional.\n\nDetalle\, mapas y tarjetas de taxi en la app: ht
+ tps://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 4 · Palacios y casas tradicionales · parte 09:00 Palac
+ io Changdeokgung
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-01-24@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270123T120000Z
+DTEND:20270123T121000Z
+SUMMARY:Mañana: Palacios y casas tradicionales · primera actividad 09:0
+ 0
+DESCRIPTION:Seúl — Palacios y casas tradicionales\nAlojamiento: Manso 
+ Hostel\n\n09:00 · Palacio Changdeokgung (창덕궁)\n   Cierra los lune
+ s\, por eso va hoy. El Jardín Secreto (Huwon) es con tour y cupo: reser
+ var.\n11:30 · Bukchon Hanok Village (북촌한옥마을)\n   Barrio res
+ idencial: visitar en silencio\, horario de visita 10–17 h.\n13:00 · A
+ lmuerzo y paseo por Insadong (인사동)\n   Calle de té\, artesanía y
+  comida tradicional.\n\nDetalle\, mapas y tarjetas de taxi en la app: ht
+ tps://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Palacios y casas tradicionales · primera actividad 
+ 09:00
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:act-s24-changdeok@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270124T000000Z
+DTEND:20270124T023000Z
+SUMMARY:Palacio Changdeokgung · 창덕궁
+DESCRIPTION:Cierra los lunes\, por eso va hoy. El Jardín Secreto (Huwon)
+  es con tour y cupo: reservar.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-s24-bukchon@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270124T023000Z
+DTEND:20270124T040000Z
+SUMMARY:Bukchon Hanok Village · 북촌한옥마을
+DESCRIPTION:Barrio residencial: visitar en silencio\, horario de visita 1
+ 0–17 h.\nCómo llegar: A pie\, ~10 min por la salida oeste del palacio
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-s24-insadong@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270124T040000Z
+DTEND:20270124T053000Z
+SUMMARY:Almuerzo y paseo por Insadong · 인사동
+DESCRIPTION:Calle de té\, artesanía y comida tradicional.\nCómo llegar
+ : A pie\, ~15 min bajando
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-01-25@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270124T223000Z
+DTEND:20270124T224500Z
+SUMMARY:Día 5 · Seongsu\, mercado y río urbano · parte 10:30 Seongsu:
+  pop-ups y tiendas
+DESCRIPTION:Seúl — Seongsu\, mercado y río urbano\nAlojamiento: Manso
+  Hostel\n\n10:30 · Seongsu: pop-ups y tiendas (성수동)\n   Barrio de
+  cafés y tiendas de skincare. Propuesta para aprovechar la mañana\; la
+ s tiendas abren ~11 h.\n13:00 · Gwangjang Market (광장시장)\n   Alm
+ uerzo aquí: bindaetteok (panqueque de poroto mungo) y mayak gimbap.\n15
+ :00 · Caminar el Cheonggyecheon hacia el oeste (청계천)\n   ~3 km ha
+ sta Cheonggye Plaza. Se puede cortar en cualquier puente.\n18:30 · Hong
+ dae de noche (홍대)\n   Música en la calle\, tiendas y cena. Ideal pa
+ ra BBQ coreano.\n\n⚠ Ojo: Mañana el vuelo sale 07:15 de Incheon: hay 
+ que estar a las 05:15. El primer AREX llega tarde\; reserven taxi para l
+ as ~04:15 y acuéstense temprano.\n\nDetalle\, mapas y tarjetas de taxi 
+ en la app: https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 5 · Seongsu\, mercado y río urbano · parte 10:30 Seon
+ gsu: pop-ups y tiendas
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-01-25@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270124T120000Z
+DTEND:20270124T121000Z
+SUMMARY:Mañana: Seongsu\, mercado y río urbano · primera actividad 10:
+ 30
+DESCRIPTION:Seúl — Seongsu\, mercado y río urbano\nAlojamiento: Manso
+  Hostel\n\n10:30 · Seongsu: pop-ups y tiendas (성수동)\n   Barrio de
+  cafés y tiendas de skincare. Propuesta para aprovechar la mañana\; la
+ s tiendas abren ~11 h.\n13:00 · Gwangjang Market (광장시장)\n   Alm
+ uerzo aquí: bindaetteok (panqueque de poroto mungo) y mayak gimbap.\n15
+ :00 · Caminar el Cheonggyecheon hacia el oeste (청계천)\n   ~3 km ha
+ sta Cheonggye Plaza. Se puede cortar en cualquier puente.\n18:30 · Hong
+ dae de noche (홍대)\n   Música en la calle\, tiendas y cena. Ideal pa
+ ra BBQ coreano.\n\n⚠ Ojo: Mañana el vuelo sale 07:15 de Incheon: hay 
+ que estar a las 05:15. El primer AREX llega tarde\; reserven taxi para l
+ as ~04:15 y acuéstense temprano.\n\nDetalle\, mapas y tarjetas de taxi 
+ en la app: https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Seongsu\, mercado y río urbano · primera actividad
+  10:30
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:act-s25-seongsu@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270125T013000Z
+DTEND:20270125T040000Z
+SUMMARY:Seongsu: pop-ups y tiendas · 성수동
+DESCRIPTION:Barrio de cafés y tiendas de skincare. Propuesta para aprove
+ char la mañana\; las tiendas abren ~11 h.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-s25-gwangjang@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270125T040000Z
+DTEND:20270125T060000Z
+SUMMARY:Gwangjang Market · 광장시장
+DESCRIPTION:Almuerzo aquí: bindaetteok (panqueque de poroto mungo) y may
+ ak gimbap.\nCómo llegar: Metro línea 2 a Euljiro 4-ga\, ~25 min
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-s25-cheonggye@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270125T060000Z
+DTEND:20270125T093000Z
+SUMMARY:Caminar el Cheonggyecheon hacia el oeste · 청계천
+DESCRIPTION:~3 km hasta Cheonggye Plaza. Se puede cortar en cualquier pue
+ nte.\nCómo llegar: A pie\, el arroyo parte junto al mercado
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-s25-hongdae@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270125T093000Z
+DTEND:20270125T110000Z
+SUMMARY:Hongdae de noche · 홍대
+DESCRIPTION:Música en la calle\, tiendas y cena. Ideal para BBQ coreano.
+ \nCómo llegar: Metro línea 2 desde City Hall\, ~20 min
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-01-26@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270125T190000Z
+DTEND:20270125T191500Z
+SUMMARY:Día 6 · Vuelo a Tokio y Asakusa · parte 04:15 Taxi al aeropuer
+ to de Incheon
+DESCRIPTION:Seúl → Tokio — Vuelo a Tokio y Asakusa\nAlojamiento: Riv
+ erview APT · Asakusa\n\n04:15 · Taxi al aeropuerto de Incheon (인천
+ 국제공항 제1여객터미널)\n   ~1 h. Confirmar la terminal de Eas
+ tar Jet.\n07:15 · Eastar Jet ICN → Tokio Narita (NRT)\n   Llega 10:10
+ . Equipaje: personal + mano 10 kg + bodega 15 kg. Pesar las maletas.\n11
+ :30 · Narita → Asakusa (浅草駅)\n   Keisei Access Express directo 
+ a Asakusa\, ~1 h. Comprar Suica/PASMO (o tarjeta física si sus Android 
+ no la aceptan).\n16:00 · Templo Senso-ji y calle Nakamise (浅草寺)\n
+    Está al lado del departamento: mejor hoy al atardecer que el miérco
+ les. Iluminado de noche y con menos gente.\n19:00 · Tempura en Asakusa 
+ (大黒家天麩羅)\n   Daikokuya\, clásico desde 1887. Suele haber fi
+ la.\n\nDetalle\, mapas y tarjetas de taxi en la app: https://claude.ai/a
+ rtifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 6 · Vuelo a Tokio y Asakusa · parte 04:15 Taxi al aero
+ puerto de Incheon
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-01-26@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270125T120000Z
+DTEND:20270125T121000Z
+SUMMARY:Mañana: Vuelo a Tokio y Asakusa · primera actividad 04:15
+DESCRIPTION:Seúl → Tokio — Vuelo a Tokio y Asakusa\nAlojamiento: Riv
+ erview APT · Asakusa\n\n04:15 · Taxi al aeropuerto de Incheon (인천
+ 국제공항 제1여객터미널)\n   ~1 h. Confirmar la terminal de Eas
+ tar Jet.\n07:15 · Eastar Jet ICN → Tokio Narita (NRT)\n   Llega 10:10
+ . Equipaje: personal + mano 10 kg + bodega 15 kg. Pesar las maletas.\n11
+ :30 · Narita → Asakusa (浅草駅)\n   Keisei Access Express directo 
+ a Asakusa\, ~1 h. Comprar Suica/PASMO (o tarjeta física si sus Android 
+ no la aceptan).\n16:00 · Templo Senso-ji y calle Nakamise (浅草寺)\n
+    Está al lado del departamento: mejor hoy al atardecer que el miérco
+ les. Iluminado de noche y con menos gente.\n19:00 · Tempura en Asakusa 
+ (大黒家天麩羅)\n   Daikokuya\, clásico desde 1887. Suele haber fi
+ la.\n\nDetalle\, mapas y tarjetas de taxi en la app: https://claude.ai/a
+ rtifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Vuelo a Tokio y Asakusa · primera actividad 04:15
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:act-t26-taxi@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270125T191500Z
+DTEND:20270125T221500Z
+SUMMARY:Taxi al aeropuerto de Incheon · 인천국제공항 제1여객터
+ 미널
+DESCRIPTION:~1 h. Confirmar la terminal de Eastar Jet.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-t26-vuelo@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270125T221500Z
+DTEND:20270126T023000Z
+SUMMARY:Eastar Jet ICN → Tokio Narita (NRT)
+DESCRIPTION:Llega 10:10. Equipaje: personal + mano 10 kg + bodega 15 kg. 
+ Pesar las maletas.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-t26-tren@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270126T023000Z
+DTEND:20270126T070000Z
+SUMMARY:Narita → Asakusa · 浅草駅
+DESCRIPTION:Keisei Access Express directo a Asakusa\, ~1 h. Comprar Suica
+ /PASMO (o tarjeta física si sus Android no la aceptan).
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-t26-sensoji@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270126T070000Z
+DTEND:20270126T100000Z
+SUMMARY:Templo Senso-ji y calle Nakamise · 浅草寺
+DESCRIPTION:Está al lado del departamento: mejor hoy al atardecer que el
+  miércoles. Iluminado de noche y con menos gente.\nCómo llegar: A pie 
+ desde el alojamiento
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-t26-cena@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270126T100000Z
+DTEND:20270126T113000Z
+SUMMARY:Tempura en Asakusa · 大黒家天麩羅
+DESCRIPTION:Daikokuya\, clásico desde 1887. Suele haber fila.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-01-27@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270126T223000Z
+DTEND:20270126T224500Z
+SUMMARY:Día 7 · Gotokuji\, Shimokitazawa y Shibuya · parte 09:30 Templ
+ o Gotokuji (gatos de la suerte)
+DESCRIPTION:Tokio — Gotokuji\, Shimokitazawa y Shibuya\nAlojamiento: Ri
+ verview APT · Asakusa\n\n09:30 · Templo Gotokuji (gatos de la suerte) 
+ (豪徳寺)\n   Desde Asakusa ~1 h (metro + línea Odakyu). Abre 6–17 
+ h.\n12:00 · Shimokitazawa: almuerzo y tiendas vintage (下北沢)\n   B
+ arrio de ropa usada y cafés\, queda en el camino.\n16:00 · Cruce de Sh
+ ibuya y mirador Shibuya Sky (渋谷スクランブル交差点)\n   Shib
+ uya Sky al atardecer: entradas con horario\, reservar online.\n19:30 · 
+ Ramen en Shibuya (一蘭 渋谷店)\n   Ichiran: cubículos individuales
+ \, abierto hasta tarde.\n\n★ El orden original tenía Senso-ji hoy\; l
+ o pasé al martes porque está junto al alojamiento y Gotokuji queda al 
+ otro lado de Tokio.\n\nDetalle\, mapas y tarjetas de taxi en la app: htt
+ ps://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 7 · Gotokuji\, Shimokitazawa y Shibuya · parte 09:30 T
+ emplo Gotokuji (gatos de la suerte)
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-01-27@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270126T120000Z
+DTEND:20270126T121000Z
+SUMMARY:Mañana: Gotokuji\, Shimokitazawa y Shibuya · primera actividad 
+ 09:30
+DESCRIPTION:Tokio — Gotokuji\, Shimokitazawa y Shibuya\nAlojamiento: Ri
+ verview APT · Asakusa\n\n09:30 · Templo Gotokuji (gatos de la suerte) 
+ (豪徳寺)\n   Desde Asakusa ~1 h (metro + línea Odakyu). Abre 6–17 
+ h.\n12:00 · Shimokitazawa: almuerzo y tiendas vintage (下北沢)\n   B
+ arrio de ropa usada y cafés\, queda en el camino.\n16:00 · Cruce de Sh
+ ibuya y mirador Shibuya Sky (渋谷スクランブル交差点)\n   Shib
+ uya Sky al atardecer: entradas con horario\, reservar online.\n19:30 · 
+ Ramen en Shibuya (一蘭 渋谷店)\n   Ichiran: cubículos individuales
+ \, abierto hasta tarde.\n\n★ El orden original tenía Senso-ji hoy\; l
+ o pasé al martes porque está junto al alojamiento y Gotokuji queda al 
+ otro lado de Tokio.\n\nDetalle\, mapas y tarjetas de taxi en la app: htt
+ ps://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Gotokuji\, Shimokitazawa y Shibuya · primera activi
+ dad 09:30
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:act-t27-gotokuji@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270127T003000Z
+DTEND:20270127T030000Z
+SUMMARY:Templo Gotokuji (gatos de la suerte) · 豪徳寺
+DESCRIPTION:Desde Asakusa ~1 h (metro + línea Odakyu). Abre 6–17 h.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-t27-shimokita@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270127T030000Z
+DTEND:20270127T070000Z
+SUMMARY:Shimokitazawa: almuerzo y tiendas vintage · 下北沢
+DESCRIPTION:Barrio de ropa usada y cafés\, queda en el camino.\nCómo ll
+ egar: Línea Odakyu\, 2 estaciones\, ~10 min
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-t27-shibuya@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270127T070000Z
+DTEND:20270127T103000Z
+SUMMARY:Cruce de Shibuya y mirador Shibuya Sky · 渋谷スクランブ
+ ル交差点
+DESCRIPTION:Shibuya Sky al atardecer: entradas con horario\, reservar onl
+ ine.\nCómo llegar: Línea Keio Inokashira\, ~5 min
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-t27-ramen@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270127T103000Z
+DTEND:20270127T120000Z
+SUMMARY:Ramen en Shibuya · 一蘭 渋谷店
+DESCRIPTION:Ichiran: cubículos individuales\, abierto hasta tarde.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-01-28@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270127T223000Z
+DTEND:20270127T224500Z
+SUMMARY:Día 8 · Meiji\, Harajuku y Shinjuku (propuesta) · parte 09:30 
+ Santuario Meiji
+DESCRIPTION:Tokio — Meiji\, Harajuku y Shinjuku (propuesta)\nAlojamient
+ o: Riverview APT · Asakusa\n\n09:30 · Santuario Meiji (明治神宮)\n
+    Bosque en pleno centro. Entrada gratis.\n11:30 · Harajuku: calle Tak
+ eshita y Omotesando (竹下通り)\n15:00 · Opcional: teamLab o Akihaba
+ ra\n   teamLab Planets (Toyosu) requiere entrada con horario. Akihabara 
+ si prefieren anime y electrónica.\n19:00 · Yakitori en Omoide Yokocho 
+ (Shinjuku) (思い出横丁)\n   Callejón de pequeños bares junto a la
+  estación de Shinjuku.\n\n★ Este día estaba vacío en la planilla. E
+ s una propuesta: díganme si prefieren otra cosa.\n\nDetalle\, mapas y t
+ arjetas de taxi en la app: https://claude.ai/artifact/VHQq4APByA2ZZvXUeD
+ LE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 8 · Meiji\, Harajuku y Shinjuku (propuesta) · parte 09
+ :30 Santuario Meiji
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-01-28@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270127T120000Z
+DTEND:20270127T121000Z
+SUMMARY:Mañana: Meiji\, Harajuku y Shinjuku (propuesta) · primera activ
+ idad 09:30
+DESCRIPTION:Tokio — Meiji\, Harajuku y Shinjuku (propuesta)\nAlojamient
+ o: Riverview APT · Asakusa\n\n09:30 · Santuario Meiji (明治神宮)\n
+    Bosque en pleno centro. Entrada gratis.\n11:30 · Harajuku: calle Tak
+ eshita y Omotesando (竹下通り)\n15:00 · Opcional: teamLab o Akihaba
+ ra\n   teamLab Planets (Toyosu) requiere entrada con horario. Akihabara 
+ si prefieren anime y electrónica.\n19:00 · Yakitori en Omoide Yokocho 
+ (Shinjuku) (思い出横丁)\n   Callejón de pequeños bares junto a la
+  estación de Shinjuku.\n\n★ Este día estaba vacío en la planilla. E
+ s una propuesta: díganme si prefieren otra cosa.\n\nDetalle\, mapas y t
+ arjetas de taxi en la app: https://claude.ai/artifact/VHQq4APByA2ZZvXUeD
+ LE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Meiji\, Harajuku y Shinjuku (propuesta) · primera a
+ ctividad 09:30
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:act-t28-meiji@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270128T003000Z
+DTEND:20270128T023000Z
+SUMMARY:Santuario Meiji · 明治神宮
+DESCRIPTION:Bosque en pleno centro. Entrada gratis.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-t28-harajuku@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270128T023000Z
+DTEND:20270128T060000Z
+SUMMARY:Harajuku: calle Takeshita y Omotesando · 竹下通り
+DESCRIPTION:Cómo llegar: A pie\, salida del santuario\, ~5 min
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-t28-teamlab@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270128T060000Z
+DTEND:20270128T100000Z
+SUMMARY:Opcional: teamLab o Akihabara
+DESCRIPTION:teamLab Planets (Toyosu) requiere entrada con horario. Akihab
+ ara si prefieren anime y electrónica.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-t28-omoide@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270128T100000Z
+DTEND:20270128T113000Z
+SUMMARY:Yakitori en Omoide Yokocho (Shinjuku) · 思い出横丁
+DESCRIPTION:Callejón de pequeños bares junto a la estación de Shinjuku
+ .
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-01-29@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270128T214500Z
+DTEND:20270128T220000Z
+SUMMARY:Día 9 · Excursión a Hakone · parte 07:30 Tren a Hakone-Yumoto
+DESCRIPTION:Tokio · Hakone — Excursión a Hakone\nAlojamiento: Rivervi
+ ew APT · Asakusa\n\n07:30 · Tren a Hakone-Yumoto (箱根湯本駅)\n  
+  Romancecar desde Shinjuku\, ~1 h 30. El Hakone Free Pass cubre trenes\,
+  bus\, teleférico y barco.\n10:30 · Lago Ashi en barco (芦ノ湖)\n12
+ :30 · Santuario de Hakone (torii en el agua) (箱根神社)\n   Hay fil
+ a para la foto en el torii\; calcular 30–45 min.\n16:00 · Regreso a T
+ okio\n   Bus a Hakone-Yumoto y Romancecar a Shinjuku.\n\nDetalle\, mapas
+  y tarjetas de taxi en la app: https://claude.ai/artifact/VHQq4APByA2ZZv
+ XUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 9 · Excursión a Hakone · parte 07:30 Tren a Hakone-Yu
+ moto
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-01-29@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270128T120000Z
+DTEND:20270128T121000Z
+SUMMARY:Mañana: Excursión a Hakone · primera actividad 07:30
+DESCRIPTION:Tokio · Hakone — Excursión a Hakone\nAlojamiento: Rivervi
+ ew APT · Asakusa\n\n07:30 · Tren a Hakone-Yumoto (箱根湯本駅)\n  
+  Romancecar desde Shinjuku\, ~1 h 30. El Hakone Free Pass cubre trenes\,
+  bus\, teleférico y barco.\n10:30 · Lago Ashi en barco (芦ノ湖)\n12
+ :30 · Santuario de Hakone (torii en el agua) (箱根神社)\n   Hay fil
+ a para la foto en el torii\; calcular 30–45 min.\n16:00 · Regreso a T
+ okio\n   Bus a Hakone-Yumoto y Romancecar a Shinjuku.\n\nDetalle\, mapas
+  y tarjetas de taxi en la app: https://claude.ai/artifact/VHQq4APByA2ZZv
+ XUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Excursión a Hakone · primera actividad 07:30
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:act-t29-tren@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270128T223000Z
+DTEND:20270129T013000Z
+SUMMARY:Tren a Hakone-Yumoto · 箱根湯本駅
+DESCRIPTION:Romancecar desde Shinjuku\, ~1 h 30. El Hakone Free Pass cubr
+ e trenes\, bus\, teleférico y barco.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-t29-lago@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270129T013000Z
+DTEND:20270129T033000Z
+SUMMARY:Lago Ashi en barco · 芦ノ湖
+DESCRIPTION:Cómo llegar: Tren de montaña + teleférico por Owakudani\, 
+ o bus directo ~40 min
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-t29-torii@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270129T033000Z
+DTEND:20270129T070000Z
+SUMMARY:Santuario de Hakone (torii en el agua) · 箱根神社
+DESCRIPTION:Hay fila para la foto en el torii\; calcular 30–45 min.\nC
+ ómo llegar: A pie desde Moto-Hakone\, ~10 min
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-t29-vuelta@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270129T070000Z
+DTEND:20270129T083000Z
+SUMMARY:Regreso a Tokio
+DESCRIPTION:Bus a Hakone-Yumoto y Romancecar a Shinjuku.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-01-30@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270129T221500Z
+DTEND:20270129T223000Z
+SUMMARY:Día 10 · Tren bala a Kioto · parte 08:00 Shinkansen Tokio → 
+ Kioto
+DESCRIPTION:Tokio → Kioto — Tren bala a Kioto\nAlojamiento: Resi Stay
+  · Kioto\n\n08:00 · Shinkansen Tokio → Kioto (京都駅)\n   ~2 h 15
+  desde Tokio o Shinagawa. Llegando\, dejar las maletas en el alojamiento
+  o en lockers de la estación de Kioto.\n11:00 · Fushimi Inari Taisha (
+ 伏見稲荷大社)\n   Los torii rojos. Subir hasta Yotsutsuji (~45 min
+ ) para la vista.\n15:00 · Templo Kiyomizu-dera (清水寺)\n   Abierto 
+ hasta ~18 h. Bajar por Sannenzaka y Ninenzaka.\n17:30 · Gion al anochec
+ er y cena (祇園)\n   Calle Hanamikoji. Respetar a las geiko: no fotos 
+ de cerca.\n\nDetalle\, mapas y tarjetas de taxi en la app: https://claud
+ e.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 10 · Tren bala a Kioto · parte 08:00 Shinkansen Tokio 
+ → Kioto
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-01-30@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270129T120000Z
+DTEND:20270129T121000Z
+SUMMARY:Mañana: Tren bala a Kioto · primera actividad 08:00
+DESCRIPTION:Tokio → Kioto — Tren bala a Kioto\nAlojamiento: Resi Stay
+  · Kioto\n\n08:00 · Shinkansen Tokio → Kioto (京都駅)\n   ~2 h 15
+  desde Tokio o Shinagawa. Llegando\, dejar las maletas en el alojamiento
+  o en lockers de la estación de Kioto.\n11:00 · Fushimi Inari Taisha (
+ 伏見稲荷大社)\n   Los torii rojos. Subir hasta Yotsutsuji (~45 min
+ ) para la vista.\n15:00 · Templo Kiyomizu-dera (清水寺)\n   Abierto 
+ hasta ~18 h. Bajar por Sannenzaka y Ninenzaka.\n17:30 · Gion al anochec
+ er y cena (祇園)\n   Calle Hanamikoji. Respetar a las geiko: no fotos 
+ de cerca.\n\nDetalle\, mapas y tarjetas de taxi en la app: https://claud
+ e.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Tren bala a Kioto · primera actividad 08:00
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:act-k30-shinkansen@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270129T230000Z
+DTEND:20270130T020000Z
+SUMMARY:Shinkansen Tokio → Kioto · 京都駅
+DESCRIPTION:~2 h 15 desde Tokio o Shinagawa. Llegando\, dejar las maletas
+  en el alojamiento o en lockers de la estación de Kioto.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-k30-inari@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270130T020000Z
+DTEND:20270130T060000Z
+SUMMARY:Fushimi Inari Taisha · 伏見稲荷大社
+DESCRIPTION:Los torii rojos. Subir hasta Yotsutsuji (~45 min) para la vis
+ ta.\nCómo llegar: Línea JR Nara desde Kioto\, 5 min
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-k30-kiyomizu@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270130T060000Z
+DTEND:20270130T083000Z
+SUMMARY:Templo Kiyomizu-dera · 清水寺
+DESCRIPTION:Abierto hasta ~18 h. Bajar por Sannenzaka y Ninenzaka.\nCómo
+  llegar: Tren Keihan a Kiyomizu-Gojo + caminata\, ~25 min
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-k30-gion@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270130T083000Z
+DTEND:20270130T100000Z
+SUMMARY:Gion al anochecer y cena · 祇園
+DESCRIPTION:Calle Hanamikoji. Respetar a las geiko: no fotos de cerca.\nC
+ ómo llegar: A pie\, ~15 min
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-01-31@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270130T221500Z
+DTEND:20270130T223000Z
+SUMMARY:Día 11 · Arashiyama y Pabellón Dorado · parte 08:00 Bosque de
+  bambú de Arashiyama
+DESCRIPTION:Kioto — Arashiyama y Pabellón Dorado\nAlojamiento: Resi St
+ ay · Kioto\n\n08:00 · Bosque de bambú de Arashiyama (嵐山竹林の
+ 小径)\n   Llegar temprano: a media mañana se llena.\n10:00 · Otagi N
+ enbutsu-ji (1.200 estatuas) (愛宕念仏寺)\n12:30 · Almuerzo en Aras
+ hiyama\n   Tofu yudofu o soba\, típicos de la zona.\n14:30 · Pabellón
+  Dorado (Kinkaku-ji) (金閣寺)\n   Abre hasta 17 h.\n17:00 · Tarde: M
+ ercado Nishiki y centro (錦市場)\n   Muchos puestos cierran ~17–18 
+ h.\n\nDetalle\, mapas y tarjetas de taxi en la app: https://claude.ai/ar
+ tifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 11 · Arashiyama y Pabellón Dorado · parte 08:00 Bosqu
+ e de bambú de Arashiyama
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-01-31@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270130T120000Z
+DTEND:20270130T121000Z
+SUMMARY:Mañana: Arashiyama y Pabellón Dorado · primera actividad 08:00
+DESCRIPTION:Kioto — Arashiyama y Pabellón Dorado\nAlojamiento: Resi St
+ ay · Kioto\n\n08:00 · Bosque de bambú de Arashiyama (嵐山竹林の
+ 小径)\n   Llegar temprano: a media mañana se llena.\n10:00 · Otagi N
+ enbutsu-ji (1.200 estatuas) (愛宕念仏寺)\n12:30 · Almuerzo en Aras
+ hiyama\n   Tofu yudofu o soba\, típicos de la zona.\n14:30 · Pabellón
+  Dorado (Kinkaku-ji) (金閣寺)\n   Abre hasta 17 h.\n17:00 · Tarde: M
+ ercado Nishiki y centro (錦市場)\n   Muchos puestos cierran ~17–18 
+ h.\n\nDetalle\, mapas y tarjetas de taxi en la app: https://claude.ai/ar
+ tifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Arashiyama y Pabellón Dorado · primera actividad 0
+ 8:00
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:act-k31-bambu@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270130T230000Z
+DTEND:20270131T010000Z
+SUMMARY:Bosque de bambú de Arashiyama · 嵐山竹林の小径
+DESCRIPTION:Llegar temprano: a media mañana se llena.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-k31-nenbutsu@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270131T010000Z
+DTEND:20270131T033000Z
+SUMMARY:Otagi Nenbutsu-ji (1.200 estatuas) · 愛宕念仏寺
+DESCRIPTION:Cómo llegar: Taxi ~10 min o caminata ~30 min por Saga-Toriim
+ oto
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-k31-almuerzo@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270131T033000Z
+DTEND:20270131T053000Z
+SUMMARY:Almuerzo en Arashiyama
+DESCRIPTION:Tofu yudofu o soba\, típicos de la zona.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-k31-kinkaku@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270131T053000Z
+DTEND:20270131T080000Z
+SUMMARY:Pabellón Dorado (Kinkaku-ji) · 金閣寺
+DESCRIPTION:Abre hasta 17 h.\nCómo llegar: Taxi ~20 min (para 4 sale par
+ ecido al bus)
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-k31-nishiki@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270131T080000Z
+DTEND:20270131T093000Z
+SUMMARY:Tarde: Mercado Nishiki y centro · 錦市場
+DESCRIPTION:Muchos puestos cierran ~17–18 h.\nCómo llegar: Bus o taxi 
+ ~25 min
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-02-01@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270131T214500Z
+DTEND:20270131T220000Z
+SUMMARY:Día 12 · Nara en el camino a Osaka · parte 07:30 Mandar las ma
+ letas a Osaka o dejarlas en lockers
+DESCRIPTION:Kioto → Nara → Osaka — Nara en el camino a Osaka\nAloja
+ miento: Jam Stay · Osaka\n\n07:30 · Mandar las maletas a Osaka o dejar
+ las en lockers\n   Envío de maletas (takkyubin) desde el alojamiento\, 
+ o lockers en la estación de Nara.\n08:30 · Parque de Nara y Todai-ji (
+ 東大寺)\n   Kintetsu Kioto → Kintetsu Nara\, ~45 min. Ciervos y el 
+ Gran Buda.\n14:00 · Tren a Osaka Namba (大阪難波駅)\n   Kintetsu N
+ ara → Osaka Namba\, ~40 min.\n18:00 · Dotonbori de noche (道頓堀)\
+ n   Luces\, letrero de Glico y comida callejera.\n19:00 · Okonomiyaki e
+ n Mizuno (美津の)\n   Bib Gourmand Michelin. Takoyaki en los puestos 
+ de la calle.\n\nDetalle\, mapas y tarjetas de taxi en la app: https://cl
+ aude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 12 · Nara en el camino a Osaka · parte 07:30 Mandar la
+ s maletas a Osaka o dejarlas en lockers
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-02-01@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270131T120000Z
+DTEND:20270131T121000Z
+SUMMARY:Mañana: Nara en el camino a Osaka · primera actividad 07:30
+DESCRIPTION:Kioto → Nara → Osaka — Nara en el camino a Osaka\nAloja
+ miento: Jam Stay · Osaka\n\n07:30 · Mandar las maletas a Osaka o dejar
+ las en lockers\n   Envío de maletas (takkyubin) desde el alojamiento\, 
+ o lockers en la estación de Nara.\n08:30 · Parque de Nara y Todai-ji (
+ 東大寺)\n   Kintetsu Kioto → Kintetsu Nara\, ~45 min. Ciervos y el 
+ Gran Buda.\n14:00 · Tren a Osaka Namba (大阪難波駅)\n   Kintetsu N
+ ara → Osaka Namba\, ~40 min.\n18:00 · Dotonbori de noche (道頓堀)\
+ n   Luces\, letrero de Glico y comida callejera.\n19:00 · Okonomiyaki e
+ n Mizuno (美津の)\n   Bib Gourmand Michelin. Takoyaki en los puestos 
+ de la calle.\n\nDetalle\, mapas y tarjetas de taxi en la app: https://cl
+ aude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Nara en el camino a Osaka · primera actividad 07:30
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:act-o01-maletas@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270131T223000Z
+DTEND:20270131T233000Z
+SUMMARY:Mandar las maletas a Osaka o dejarlas en lockers
+DESCRIPTION:Envío de maletas (takkyubin) desde el alojamiento\, o locker
+ s en la estación de Nara.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-o01-nara@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270131T233000Z
+DTEND:20270201T050000Z
+SUMMARY:Parque de Nara y Todai-ji · 東大寺
+DESCRIPTION:Kintetsu Kioto → Kintetsu Nara\, ~45 min. Ciervos y el Gran
+  Buda.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-o01-osaka@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270201T050000Z
+DTEND:20270201T090000Z
+SUMMARY:Tren a Osaka Namba · 大阪難波駅
+DESCRIPTION:Kintetsu Nara → Osaka Namba\, ~40 min.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-o01-doton@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270201T090000Z
+DTEND:20270201T100000Z
+SUMMARY:Dotonbori de noche · 道頓堀
+DESCRIPTION:Luces\, letrero de Glico y comida callejera.\nCómo llegar: A
+  pie desde Namba
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-o01-okonomi@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270201T100000Z
+DTEND:20270201T113000Z
+SUMMARY:Okonomiyaki en Mizuno · 美津の
+DESCRIPTION:Bib Gourmand Michelin. Takoyaki en los puestos de la calle.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-02-02@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270201T223000Z
+DTEND:20270201T224500Z
+SUMMARY:Día 13 · Katsuo-ji y la ciudad · parte 09:00 Templo Katsuo-ji 
+ (daruma)
+DESCRIPTION:Osaka — Katsuo-ji y la ciudad\nAlojamiento: Jam Stay · Osa
+ ka\n\n09:00 · Templo Katsuo-ji (daruma) (勝尾寺)\n   Al norte\, en M
+ inoh. Metro a Senri-Chuo + bus ~1 h 15 en total. Bus poco frecuente: rev
+ isar horario.\n13:30 · Mercado Kuromon (黒門市場)\n   Mariscos y wa
+ gyu al paso.\n16:00 · Shinsekai y kushikatsu (新世界)\n   Barrio ret
+ ro bajo la torre Tsutenkaku.\n\n⚠ Ojo: Mañana el vuelo sale 08:00 de 
+ Kansai (KIX): estar a las 06:00. Nankai desde Namba ~40 min\; confirmen 
+ el primer tren desde su alojamiento.\n\nDetalle\, mapas y tarjetas de ta
+ xi en la app: https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 13 · Katsuo-ji y la ciudad · parte 09:00 Templo Katsuo
+ -ji (daruma)
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-02-02@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270201T120000Z
+DTEND:20270201T121000Z
+SUMMARY:Mañana: Katsuo-ji y la ciudad · primera actividad 09:00
+DESCRIPTION:Osaka — Katsuo-ji y la ciudad\nAlojamiento: Jam Stay · Osa
+ ka\n\n09:00 · Templo Katsuo-ji (daruma) (勝尾寺)\n   Al norte\, en M
+ inoh. Metro a Senri-Chuo + bus ~1 h 15 en total. Bus poco frecuente: rev
+ isar horario.\n13:30 · Mercado Kuromon (黒門市場)\n   Mariscos y wa
+ gyu al paso.\n16:00 · Shinsekai y kushikatsu (新世界)\n   Barrio ret
+ ro bajo la torre Tsutenkaku.\n\n⚠ Ojo: Mañana el vuelo sale 08:00 de 
+ Kansai (KIX): estar a las 06:00. Nankai desde Namba ~40 min\; confirmen 
+ el primer tren desde su alojamiento.\n\nDetalle\, mapas y tarjetas de ta
+ xi en la app: https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Katsuo-ji y la ciudad · primera actividad 09:00
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:act-o02-katsuoji@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270202T000000Z
+DTEND:20270202T043000Z
+SUMMARY:Templo Katsuo-ji (daruma) · 勝尾寺
+DESCRIPTION:Al norte\, en Minoh. Metro a Senri-Chuo + bus ~1 h 15 en tota
+ l. Bus poco frecuente: revisar horario.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-o02-kuromon@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270202T043000Z
+DTEND:20270202T070000Z
+SUMMARY:Mercado Kuromon · 黒門市場
+DESCRIPTION:Mariscos y wagyu al paso.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-o02-shinsekai@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270202T070000Z
+DTEND:20270202T083000Z
+SUMMARY:Shinsekai y kushikatsu · 新世界
+DESCRIPTION:Barrio retro bajo la torre Tsutenkaku.\nCómo llegar: Metro S
+ akaisuji\, 2 estaciones
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-02-03@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270202T221500Z
+DTEND:20270202T223000Z
+SUMMARY:Día 14 · Vuelo a Hong Kong y Victoria Peak · parte 08:00 Peach
+  KIX → Hong Kong (HKG)
+DESCRIPTION:Osaka → Hong Kong — Vuelo a Hong Kong y Victoria Peak\nAl
+ ojamiento: Urbanwood · Ap Lei Chau\n\n08:00 · Peach KIX → Hong Kong 
+ (HKG)\n   Llega 11:45. Peach es estricto con el peso de la maleta.\n12:3
+ 0 · Octopus y traslado al hotel (鴨脷洲)\n   Airport Express a Hong 
+ Kong + taxi\, o bus. ~1 h.\n16:30 · Victoria Peak al atardecer (山頂)
+ \n   Peak Tram desde Central. Hay fila: ir antes de la puesta de sol.\n1
+ 9:30 · Avenue of Stars y show de luces (星光大道)\n   Symphony of L
+ ights a las 20:00.\n21:00 · Temple Street Night Market (廟街夜市)\n
+    Cena: arroz en olla de barro (bo zai fan).\n\nDetalle\, mapas y tarje
+ tas de taxi en la app: https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 14 · Vuelo a Hong Kong y Victoria Peak · parte 08:00 P
+ each KIX → Hong Kong (HKG)
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-02-03@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270202T120000Z
+DTEND:20270202T121000Z
+SUMMARY:Mañana: Vuelo a Hong Kong y Victoria Peak · primera actividad 0
+ 8:00
+DESCRIPTION:Osaka → Hong Kong — Vuelo a Hong Kong y Victoria Peak\nAl
+ ojamiento: Urbanwood · Ap Lei Chau\n\n08:00 · Peach KIX → Hong Kong 
+ (HKG)\n   Llega 11:45. Peach es estricto con el peso de la maleta.\n12:3
+ 0 · Octopus y traslado al hotel (鴨脷洲)\n   Airport Express a Hong 
+ Kong + taxi\, o bus. ~1 h.\n16:30 · Victoria Peak al atardecer (山頂)
+ \n   Peak Tram desde Central. Hay fila: ir antes de la puesta de sol.\n1
+ 9:30 · Avenue of Stars y show de luces (星光大道)\n   Symphony of L
+ ights a las 20:00.\n21:00 · Temple Street Night Market (廟街夜市)\n
+    Cena: arroz en olla de barro (bo zai fan).\n\nDetalle\, mapas y tarje
+ tas de taxi en la app: https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Vuelo a Hong Kong y Victoria Peak · primera activid
+ ad 08:00
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-02-04@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270203T233000Z
+DTEND:20270203T234500Z
+SUMMARY:Día 15 · Disneyland y Mong Kok · parte 10:00 Hong Kong Disneyl
+ and
+DESCRIPTION:Hong Kong — Disneyland y Mong Kok\nAlojamiento: Urbanwood 
+ · Ap Lei Chau\n\n10:00 · Hong Kong Disneyland (香港迪士尼樂園)\
+ n   Comprar la entrada antes en Klook. MTR línea Disneyland Resort.\n19
+ :30 · Mong Kok de noche (旺角)\n   Ladies' Market y calles de neón.\
+ n20:30 · Dim sum en Tim Ho Wan (添好運)\n   El dim sum con estrella 
+ Michelin más barato. Varias sucursales: buscar la más cercana.\n\nDeta
+ lle\, mapas y tarjetas de taxi en la app: https://claude.ai/artifact/VHQ
+ q4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 15 · Disneyland y Mong Kok · parte 10:00 Hong Kong Dis
+ neyland
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-02-04@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270203T130000Z
+DTEND:20270203T131000Z
+SUMMARY:Mañana: Disneyland y Mong Kok · primera actividad 10:00
+DESCRIPTION:Hong Kong — Disneyland y Mong Kok\nAlojamiento: Urbanwood 
+ · Ap Lei Chau\n\n10:00 · Hong Kong Disneyland (香港迪士尼樂園)\
+ n   Comprar la entrada antes en Klook. MTR línea Disneyland Resort.\n19
+ :30 · Mong Kok de noche (旺角)\n   Ladies' Market y calles de neón.\
+ n20:30 · Dim sum en Tim Ho Wan (添好運)\n   El dim sum con estrella 
+ Michelin más barato. Varias sucursales: buscar la más cercana.\n\nDeta
+ lle\, mapas y tarjetas de taxi en la app: https://claude.ai/artifact/VHQ
+ q4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Disneyland y Mong Kok · primera actividad 10:00
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:act-h04-disney@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270204T020000Z
+DTEND:20270204T113000Z
+SUMMARY:Hong Kong Disneyland · 香港迪士尼樂園
+DESCRIPTION:Comprar la entrada antes en Klook. MTR línea Disneyland Reso
+ rt.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-h04-mongkok@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270204T113000Z
+DTEND:20270204T123000Z
+SUMMARY:Mong Kok de noche · 旺角
+DESCRIPTION:Ladies' Market y calles de neón.\nCómo llegar: MTR\, ~35 mi
+ n
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-h04-dimsum@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270204T123000Z
+DTEND:20270204T140000Z
+SUMMARY:Dim sum en Tim Ho Wan · 添好運
+DESCRIPTION:El dim sum con estrella Michelin más barato. Varias sucursal
+ es: buscar la más cercana.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-02-05@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270204T233000Z
+DTEND:20270204T234500Z
+SUMMARY:Día 16 · Gran Buda y Wong Tai Sin · parte 09:00 Teleférico Ng
+ ong Ping 360
+DESCRIPTION:Hong Kong — Gran Buda y Wong Tai Sin\nAlojamiento: Urbanwoo
+ d · Ap Lei Chau\n\n09:00 · Teleférico Ngong Ping 360 (昂坪360)\n   
+ Desde Tung Chung\, ~25 min. Comprar online para saltar parte de la fila.
+ \n10:00 · Tian Tan Buddha (天壇大佛)\n   268 escalones.\n11:30 · M
+ onasterio Po Lin y almuerzo vegetariano (寶蓮禪寺)\n15:30 · Templo 
+ Wong Tai Sin (黃大仙祠)\n\n⚠ Ojo: Hoy es la víspera del año nuev
+ o chino: Wong Tai Sin se llena muchísimo de noche (ritual del primer in
+ cienso). Ir de día.\n\nDetalle\, mapas y tarjetas de taxi en la app: ht
+ tps://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 16 · Gran Buda y Wong Tai Sin · parte 09:00 Teleféric
+ o Ngong Ping 360
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-02-05@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270204T130000Z
+DTEND:20270204T131000Z
+SUMMARY:Mañana: Gran Buda y Wong Tai Sin · primera actividad 09:00
+DESCRIPTION:Hong Kong — Gran Buda y Wong Tai Sin\nAlojamiento: Urbanwoo
+ d · Ap Lei Chau\n\n09:00 · Teleférico Ngong Ping 360 (昂坪360)\n   
+ Desde Tung Chung\, ~25 min. Comprar online para saltar parte de la fila.
+ \n10:00 · Tian Tan Buddha (天壇大佛)\n   268 escalones.\n11:30 · M
+ onasterio Po Lin y almuerzo vegetariano (寶蓮禪寺)\n15:30 · Templo 
+ Wong Tai Sin (黃大仙祠)\n\n⚠ Ojo: Hoy es la víspera del año nuev
+ o chino: Wong Tai Sin se llena muchísimo de noche (ritual del primer in
+ cienso). Ir de día.\n\nDetalle\, mapas y tarjetas de taxi en la app: ht
+ tps://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Gran Buda y Wong Tai Sin · primera actividad 09:00
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:act-h05-cable@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270205T010000Z
+DTEND:20270205T020000Z
+SUMMARY:Teleférico Ngong Ping 360 · 昂坪360
+DESCRIPTION:Desde Tung Chung\, ~25 min. Comprar online para saltar parte 
+ de la fila.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-h05-buda@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270205T020000Z
+DTEND:20270205T033000Z
+SUMMARY:Tian Tan Buddha · 天壇大佛
+DESCRIPTION:268 escalones.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-h05-polin@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270205T033000Z
+DTEND:20270205T073000Z
+SUMMARY:Monasterio Po Lin y almuerzo vegetariano · 寶蓮禪寺
+DESCRIPTION:Cómo llegar: A pie\, al lado del Buda
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-h05-wongtaisin@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270205T073000Z
+DTEND:20270205T090000Z
+SUMMARY:Templo Wong Tai Sin · 黃大仙祠
+DESCRIPTION:Cómo llegar: Teleférico + MTR\, ~1 h 15
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-02-06@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270205T233000Z
+DTEND:20270205T234500Z
+SUMMARY:Día 17 · Tren a Fenghuang · Año nuevo chino · parte 19:00 Pu
+ eblo antiguo iluminado junto al río Tuo
+DESCRIPTION:Hong Kong → Fenghuang — Tren a Fenghuang · Año nuevo ch
+ ino\nAlojamiento: Ink Colored Homestay · Fenghuang\n\nMañana · Tren d
+ e alta velocidad desde West Kowloon (香港西九龙站)\n   Ruta y comb
+ inaciones por confirmar en Trip.com (vía Huaihua o Changsha). Llevar pa
+ saporte: la migración china se hace en la estación.\nTarde · Llegada 
+ a Fenghuang (凤凰古城)\n   Didi o taxi al homestay. Pedirle al homes
+ tay la dirección exacta en chino.\n19:00 · Pueblo antiguo iluminado ju
+ nto al río Tuo (沱江)\n   Casas sobre pilotes iluminadas. Primera noc
+ he del año nuevo: puede haber fuegos artificiales.\n20:00 · Cena típi
+ ca de Xiangxi (血粑鸭)\n   Pato con pastel de arroz\, plato de la zon
+ a. En año nuevo algunos locales cierran.\n\n⚠ Ojo: Es el día del añ
+ o nuevo chino: uno de los días con más demanda de trenes del año. Com
+ prar apenas abra la venta (~15 días antes).\n\nDetalle\, mapas y tarjet
+ as de taxi en la app: https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 17 · Tren a Fenghuang · Año nuevo chino · parte 19:0
+ 0 Pueblo antiguo iluminado junto al río Tuo
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-02-06@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270205T130000Z
+DTEND:20270205T131000Z
+SUMMARY:Mañana: Tren a Fenghuang · Año nuevo chino · primera activida
+ d 19:00
+DESCRIPTION:Hong Kong → Fenghuang — Tren a Fenghuang · Año nuevo ch
+ ino\nAlojamiento: Ink Colored Homestay · Fenghuang\n\nMañana · Tren d
+ e alta velocidad desde West Kowloon (香港西九龙站)\n   Ruta y comb
+ inaciones por confirmar en Trip.com (vía Huaihua o Changsha). Llevar pa
+ saporte: la migración china se hace en la estación.\nTarde · Llegada 
+ a Fenghuang (凤凰古城)\n   Didi o taxi al homestay. Pedirle al homes
+ tay la dirección exacta en chino.\n19:00 · Pueblo antiguo iluminado ju
+ nto al río Tuo (沱江)\n   Casas sobre pilotes iluminadas. Primera noc
+ he del año nuevo: puede haber fuegos artificiales.\n20:00 · Cena típi
+ ca de Xiangxi (血粑鸭)\n   Pato con pastel de arroz\, plato de la zon
+ a. En año nuevo algunos locales cierran.\n\n⚠ Ojo: Es el día del añ
+ o nuevo chino: uno de los días con más demanda de trenes del año. Com
+ prar apenas abra la venta (~15 días antes).\n\nDetalle\, mapas y tarjet
+ as de taxi en la app: https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Tren a Fenghuang · Año nuevo chino · primera acti
+ vidad 19:00
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:act-f06-noche@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270206T110000Z
+DTEND:20270206T120000Z
+SUMMARY:Pueblo antiguo iluminado junto al río Tuo · 沱江
+DESCRIPTION:Casas sobre pilotes iluminadas. Primera noche del año nuevo:
+  puede haber fuegos artificiales.\nCómo llegar: A pie
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-f06-cena@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270206T120000Z
+DTEND:20270206T133000Z
+SUMMARY:Cena típica de Xiangxi · 血粑鸭
+DESCRIPTION:Pato con pastel de arroz\, plato de la zona. En año nuevo al
+ gunos locales cierran.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-02-07@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270206T231500Z
+DTEND:20270206T233000Z
+SUMMARY:Día 18 · Furong y llegada a Zhangjiajie · parte 08:00 Paseo de
+  mañana por Fenghuang
+DESCRIPTION:Fenghuang → Zhangjiajie — Furong y llegada a Zhangjiajie\
+ nAlojamiento: Xianxi Love Yangyun Hotel · Zhangjiajie\n\n08:00 · Paseo
+  de mañana por Fenghuang (凤凰古城)\n   Temprano hay poca gente.\n1
+ 2:00 · Pueblo de Furong (cascada) (芙蓉镇)\n   Queda entre Fenghuang
+  y Zhangjiajie. Por confirmar: tren + taxi o un auto con chofer para el 
+ día con maletas.\n16:00 · Traslado a Zhangjiajie (张家界西站)\n19
+ :30 · 72 Wonder Tower de noche (七十二奇楼)\n   Edificio iluminado
+  en la ciudad. Mejor de noche.\n20:30 · Sanxiaguo\, olla típica de Zha
+ ngjiajie (三下锅)\n\nDetalle\, mapas y tarjetas de taxi en la app: ht
+ tps://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 18 · Furong y llegada a Zhangjiajie · parte 08:00 Pase
+ o de mañana por Fenghuang
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-02-07@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270206T130000Z
+DTEND:20270206T131000Z
+SUMMARY:Mañana: Furong y llegada a Zhangjiajie · primera actividad 08:0
+ 0
+DESCRIPTION:Fenghuang → Zhangjiajie — Furong y llegada a Zhangjiajie\
+ nAlojamiento: Xianxi Love Yangyun Hotel · Zhangjiajie\n\n08:00 · Paseo
+  de mañana por Fenghuang (凤凰古城)\n   Temprano hay poca gente.\n1
+ 2:00 · Pueblo de Furong (cascada) (芙蓉镇)\n   Queda entre Fenghuang
+  y Zhangjiajie. Por confirmar: tren + taxi o un auto con chofer para el 
+ día con maletas.\n16:00 · Traslado a Zhangjiajie (张家界西站)\n19
+ :30 · 72 Wonder Tower de noche (七十二奇楼)\n   Edificio iluminado
+  en la ciudad. Mejor de noche.\n20:30 · Sanxiaguo\, olla típica de Zha
+ ngjiajie (三下锅)\n\nDetalle\, mapas y tarjetas de taxi en la app: ht
+ tps://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Furong y llegada a Zhangjiajie · primera actividad 
+ 08:00
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:act-z07-fenghuang@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270207T000000Z
+DTEND:20270207T040000Z
+SUMMARY:Paseo de mañana por Fenghuang · 凤凰古城
+DESCRIPTION:Temprano hay poca gente.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-z07-furong@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270207T040000Z
+DTEND:20270207T080000Z
+SUMMARY:Pueblo de Furong (cascada) · 芙蓉镇
+DESCRIPTION:Queda entre Fenghuang y Zhangjiajie. Por confirmar: tren + ta
+ xi o un auto con chofer para el día con maletas.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-z07-tren@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270207T080000Z
+DTEND:20270207T113000Z
+SUMMARY:Traslado a Zhangjiajie · 张家界西站
+DESCRIPTION:
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-z07-72@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270207T113000Z
+DTEND:20270207T123000Z
+SUMMARY:72 Wonder Tower de noche · 七十二奇楼
+DESCRIPTION:Edificio iluminado en la ciudad. Mejor de noche.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-z07-cena@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270207T123000Z
+DTEND:20270207T140000Z
+SUMMARY:Sanxiaguo\, olla típica de Zhangjiajie · 三下锅
+DESCRIPTION:
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-02-08@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270207T231500Z
+DTEND:20270207T233000Z
+SUMMARY:Día 19 · Montaña Tianmen · parte 08:00 Tianmen Shan: telefér
+ ico y Puerta al Cielo
+DESCRIPTION:Zhangjiajie — Montaña Tianmen\nAlojamiento: Xianxi Love Ya
+ ngyun Hotel · Zhangjiajie\n\n08:00 · Tianmen Shan: teleférico y Puert
+ a al Cielo (天门山国家森林公园)\n   El teleférico sale del cen
+ tro de la ciudad. Hay distintas rutas de entrada: comprar online con pas
+ aporte. Llevar abrigo: arriba hace más frío.\n11:30 · Pasarela de vid
+ rio y escalera de 999 peldaños\n   Escaleras mecánicas dentro de la mo
+ ntaña para bajar.\n\nDetalle\, mapas y tarjetas de taxi en la app: http
+ s://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 19 · Montaña Tianmen · parte 08:00 Tianmen Shan: tele
+ férico y Puerta al Cielo
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-02-08@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270207T130000Z
+DTEND:20270207T131000Z
+SUMMARY:Mañana: Montaña Tianmen · primera actividad 08:00
+DESCRIPTION:Zhangjiajie — Montaña Tianmen\nAlojamiento: Xianxi Love Ya
+ ngyun Hotel · Zhangjiajie\n\n08:00 · Tianmen Shan: teleférico y Puert
+ a al Cielo (天门山国家森林公园)\n   El teleférico sale del cen
+ tro de la ciudad. Hay distintas rutas de entrada: comprar online con pas
+ aporte. Llevar abrigo: arriba hace más frío.\n11:30 · Pasarela de vid
+ rio y escalera de 999 peldaños\n   Escaleras mecánicas dentro de la mo
+ ntaña para bajar.\n\nDetalle\, mapas y tarjetas de taxi en la app: http
+ s://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Montaña Tianmen · primera actividad 08:00
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:act-z08-tianmen@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270208T000000Z
+DTEND:20270208T033000Z
+SUMMARY:Tianmen Shan: teleférico y Puerta al Cielo · 天门山国家森
+ 林公园
+DESCRIPTION:El teleférico sale del centro de la ciudad. Hay distintas ru
+ tas de entrada: comprar online con pasaporte. Llevar abrigo: arriba hace
+  más frío.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-z08-pasarela@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270208T033000Z
+DTEND:20270208T050000Z
+SUMMARY:Pasarela de vidrio y escalera de 999 peldaños
+DESCRIPTION:Escaleras mecánicas dentro de la montaña para bajar.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-02-09@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270208T224500Z
+DTEND:20270208T230000Z
+SUMMARY:Día 20 · Parque Nacional (montañas de Avatar) · parte 07:30 P
+ arque Forestal Nacional de Zhangjiajie
+DESCRIPTION:Zhangjiajie — Parque Nacional (montañas de Avatar)\nAlojam
+ iento: Xianxi Love Yangyun Hotel · Zhangjiajie\n\n07:30 · Parque Fores
+ tal Nacional de Zhangjiajie (张家界国家森林公园)\n   Comprar la
+ s entradas antes (boleto de varios días). Desde la ciudad ~1 h. Ascenso
+ r Bailong y zona Yuanjiajie.\n13:00 · Tianzi Shan (天子山)\n   Calcu
+ lar el último bus de salida.\n\n⚠ Ojo: Revisar dónde queda el hotel:
+  si está en la ciudad\, el parque (Wulingyuan) está a ~40 km.\n\nDetal
+ le\, mapas y tarjetas de taxi en la app: https://claude.ai/artifact/VHQq
+ 4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 20 · Parque Nacional (montañas de Avatar) · parte 07:
+ 30 Parque Forestal Nacional de Zhangjiajie
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-02-09@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270208T130000Z
+DTEND:20270208T131000Z
+SUMMARY:Mañana: Parque Nacional (montañas de Avatar) · primera activid
+ ad 07:30
+DESCRIPTION:Zhangjiajie — Parque Nacional (montañas de Avatar)\nAlojam
+ iento: Xianxi Love Yangyun Hotel · Zhangjiajie\n\n07:30 · Parque Fores
+ tal Nacional de Zhangjiajie (张家界国家森林公园)\n   Comprar la
+ s entradas antes (boleto de varios días). Desde la ciudad ~1 h. Ascenso
+ r Bailong y zona Yuanjiajie.\n13:00 · Tianzi Shan (天子山)\n   Calcu
+ lar el último bus de salida.\n\n⚠ Ojo: Revisar dónde queda el hotel:
+  si está en la ciudad\, el parque (Wulingyuan) está a ~40 km.\n\nDetal
+ le\, mapas y tarjetas de taxi en la app: https://claude.ai/artifact/VHQq
+ 4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Parque Nacional (montañas de Avatar) · primera act
+ ividad 07:30
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:act-z09-parque@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270208T233000Z
+DTEND:20270209T050000Z
+SUMMARY:Parque Forestal Nacional de Zhangjiajie · 张家界国家森林
+ 公园
+DESCRIPTION:Comprar las entradas antes (boleto de varios días). Desde la
+  ciudad ~1 h. Ascensor Bailong y zona Yuanjiajie.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-z09-tianzi@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270209T050000Z
+DTEND:20270209T063000Z
+SUMMARY:Tianzi Shan · 天子山
+DESCRIPTION:Calcular el último bus de salida.\nCómo llegar: Buses inter
+ nos del parque
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-02-10@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270209T233000Z
+DTEND:20270209T234500Z
+SUMMARY:Día 21 · Puente de cristal · parte 09:00 Puente de cristal del
+  Gran Cañón
+DESCRIPTION:Zhangjiajie — Puente de cristal\nAlojamiento: Xianxi Love Y
+ angyun Hotel · Zhangjiajie\n\n09:00 · Puente de cristal del Gran Cañ
+ ón (张家界大峡谷玻璃桥)\n   Entradas con pasaporte y cupo. No 
+ se permiten tacos ni cámaras grandes.\n16:00 · Recorrer la ciudad\n   
+ Tarde libre para descansar antes de Chongqing.\n\nDetalle\, mapas y tarj
+ etas de taxi en la app: https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4
+ h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 21 · Puente de cristal · parte 09:00 Puente de cristal
+  del Gran Cañón
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-02-10@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270209T130000Z
+DTEND:20270209T131000Z
+SUMMARY:Mañana: Puente de cristal · primera actividad 09:00
+DESCRIPTION:Zhangjiajie — Puente de cristal\nAlojamiento: Xianxi Love Y
+ angyun Hotel · Zhangjiajie\n\n09:00 · Puente de cristal del Gran Cañ
+ ón (张家界大峡谷玻璃桥)\n   Entradas con pasaporte y cupo. No 
+ se permiten tacos ni cámaras grandes.\n16:00 · Recorrer la ciudad\n   
+ Tarde libre para descansar antes de Chongqing.\n\nDetalle\, mapas y tarj
+ etas de taxi en la app: https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4
+ h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Puente de cristal · primera actividad 09:00
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:act-z10-puente@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270210T010000Z
+DTEND:20270210T080000Z
+SUMMARY:Puente de cristal del Gran Cañón · 张家界大峡谷玻璃桥
+DESCRIPTION:Entradas con pasaporte y cupo. No se permiten tacos ni cámar
+ as grandes.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-z10-ciudad@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270210T080000Z
+DTEND:20270210T093000Z
+SUMMARY:Recorrer la ciudad
+DESCRIPTION:Tarde libre para descansar antes de Chongqing.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-02-11@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270210T233000Z
+DTEND:20270210T234500Z
+SUMMARY:Día 22 · Llegada a Chongqing · parte 16:00 Templo Luohan
+DESCRIPTION:Zhangjiajie → Chongqing — Llegada a Chongqing\nAlojamient
+ o: Nostalia S Hotel · Chongqing\n\nMañana · Tren Zhangjiajie → Chon
+ gqing (重庆北站)\n   Por definir en Trip.com.\n16:00 · Templo Luoha
+ n (罗汉寺)\n17:30 · Shibati (escaleras antiguas) (十八梯)\n20:00 
+ · Hotpot de Chongqing (重庆火锅)\n   El plato de la ciudad. Pedir 
+ 微辣 (wēi là) para picante suave.\n\nDetalle\, mapas y tarjetas de t
+ axi en la app: https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 22 · Llegada a Chongqing · parte 16:00 Templo Luohan
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-02-11@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270210T130000Z
+DTEND:20270210T131000Z
+SUMMARY:Mañana: Llegada a Chongqing · primera actividad 16:00
+DESCRIPTION:Zhangjiajie → Chongqing — Llegada a Chongqing\nAlojamient
+ o: Nostalia S Hotel · Chongqing\n\nMañana · Tren Zhangjiajie → Chon
+ gqing (重庆北站)\n   Por definir en Trip.com.\n16:00 · Templo Luoha
+ n (罗汉寺)\n17:30 · Shibati (escaleras antiguas) (十八梯)\n20:00 
+ · Hotpot de Chongqing (重庆火锅)\n   El plato de la ciudad. Pedir 
+ 微辣 (wēi là) para picante suave.\n\nDetalle\, mapas y tarjetas de t
+ axi en la app: https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Llegada a Chongqing · primera actividad 16:00
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:act-c11-luohan@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270211T080000Z
+DTEND:20270211T093000Z
+SUMMARY:Templo Luohan · 罗汉寺
+DESCRIPTION:
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-c11-shibati@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270211T093000Z
+DTEND:20270211T120000Z
+SUMMARY:Shibati (escaleras antiguas) · 十八梯
+DESCRIPTION:Cómo llegar: Taxi ~10 min
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-c11-hotpot@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270211T120000Z
+DTEND:20270211T133000Z
+SUMMARY:Hotpot de Chongqing · 重庆火锅
+DESCRIPTION:El plato de la ciudad. Pedir 微辣 (wēi là) para picante s
+ uave.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-02-12@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270211T233000Z
+DTEND:20270211T234500Z
+SUMMARY:Día 23 · Chongqing vertical (propuesta) · parte 09:30 Pueblo a
+ ntiguo Ciqikou
+DESCRIPTION:Chongqing — Chongqing vertical (propuesta)\nAlojamiento: No
+ stalia S Hotel · Chongqing\n\n09:30 · Pueblo antiguo Ciqikou (磁器
+ 口古镇)\n   Calles antiguas y comida callejera.\n13:00 · Metro que a
+ traviesa un edificio (Liziba) (李子坝站)\n   Mirador para ver pasar 
+ el tren línea 2.\n16:00 · Teleférico del río Yangtsé (长江索道)
+ \n   Mucha fila en feriado.\n19:00 · Hongyadong iluminado (洪崖洞)\n
+    Si hay show de drones hoy (posible por el feriado)\, Chaotianmen est
+ á a 10 min a pie.\n\n★ Día vacío en la planilla: propuesta. Queda c
+ omo noche de respaldo si el show del sábado se cancela por clima.\n\nDe
+ talle\, mapas y tarjetas de taxi en la app: https://claude.ai/artifact/V
+ HQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 23 · Chongqing vertical (propuesta) · parte 09:30 Pueb
+ lo antiguo Ciqikou
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-02-12@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270211T130000Z
+DTEND:20270211T131000Z
+SUMMARY:Mañana: Chongqing vertical (propuesta) · primera actividad 09:3
+ 0
+DESCRIPTION:Chongqing — Chongqing vertical (propuesta)\nAlojamiento: No
+ stalia S Hotel · Chongqing\n\n09:30 · Pueblo antiguo Ciqikou (磁器
+ 口古镇)\n   Calles antiguas y comida callejera.\n13:00 · Metro que a
+ traviesa un edificio (Liziba) (李子坝站)\n   Mirador para ver pasar 
+ el tren línea 2.\n16:00 · Teleférico del río Yangtsé (长江索道)
+ \n   Mucha fila en feriado.\n19:00 · Hongyadong iluminado (洪崖洞)\n
+    Si hay show de drones hoy (posible por el feriado)\, Chaotianmen est
+ á a 10 min a pie.\n\n★ Día vacío en la planilla: propuesta. Queda c
+ omo noche de respaldo si el show del sábado se cancela por clima.\n\nDe
+ talle\, mapas y tarjetas de taxi en la app: https://claude.ai/artifact/V
+ HQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Chongqing vertical (propuesta) · primera actividad 
+ 09:30
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:act-c12-ciqikou@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270212T013000Z
+DTEND:20270212T050000Z
+SUMMARY:Pueblo antiguo Ciqikou · 磁器口古镇
+DESCRIPTION:Calles antiguas y comida callejera.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-c12-liziba@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270212T050000Z
+DTEND:20270212T080000Z
+SUMMARY:Metro que atraviesa un edificio (Liziba) · 李子坝站
+DESCRIPTION:Mirador para ver pasar el tren línea 2.\nCómo llegar: Metro
+  ~30 min
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-c12-cable@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270212T080000Z
+DTEND:20270212T110000Z
+SUMMARY:Teleférico del río Yangtsé · 长江索道
+DESCRIPTION:Mucha fila en feriado.\nCómo llegar: Metro o taxi ~20 min
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-c12-hongya@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270212T110000Z
+DTEND:20270212T123000Z
+SUMMARY:Hongyadong iluminado · 洪崖洞
+DESCRIPTION:Si hay show de drones hoy (posible por el feriado)\, Chaotian
+ men está a 10 min a pie.\nCómo llegar: A pie\, ~15 min
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-02-13@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270212T233000Z
+DTEND:20270212T234500Z
+SUMMARY:Día 24 · Show de drones · parte 14:00 Jiefangbei y centro
+DESCRIPTION:Chongqing — Show de drones\nAlojamiento: Nostalia S Hotel 
+ · Chongqing\n\n14:00 · Jiefangbei y centro (解放碑)\n17:30 · Fideo
+ s picantes (xiaomian) (重庆小面)\n   Cena temprana para tomar lugar.
+ \n20:30 · Show de drones en la plaza Chaotianmen (朝天门广场)\n   
+ Gratis. Llegar a las ~19:30. Desde Chaotianmen algunos textos se ven al 
+ revés\; Hongyadong también sirve.\n\n★ Revisar el programa mensual e
+ n english.cq.gov.cn. Último día del feriado: puede haber más funcione
+ s esa semana.\n\nDetalle\, mapas y tarjetas de taxi en la app: https://c
+ laude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 24 · Show de drones · parte 14:00 Jiefangbei y centro
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-02-13@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270212T130000Z
+DTEND:20270212T131000Z
+SUMMARY:Mañana: Show de drones · primera actividad 14:00
+DESCRIPTION:Chongqing — Show de drones\nAlojamiento: Nostalia S Hotel 
+ · Chongqing\n\n14:00 · Jiefangbei y centro (解放碑)\n17:30 · Fideo
+ s picantes (xiaomian) (重庆小面)\n   Cena temprana para tomar lugar.
+ \n20:30 · Show de drones en la plaza Chaotianmen (朝天门广场)\n   
+ Gratis. Llegar a las ~19:30. Desde Chaotianmen algunos textos se ven al 
+ revés\; Hongyadong también sirve.\n\n★ Revisar el programa mensual e
+ n english.cq.gov.cn. Último día del feriado: puede haber más funcione
+ s esa semana.\n\nDetalle\, mapas y tarjetas de taxi en la app: https://c
+ laude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Show de drones · primera actividad 14:00
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:act-c13-jiefang@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270213T060000Z
+DTEND:20270213T093000Z
+SUMMARY:Jiefangbei y centro · 解放碑
+DESCRIPTION:
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-c13-xiaomian@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270213T093000Z
+DTEND:20270213T123000Z
+SUMMARY:Fideos picantes (xiaomian) · 重庆小面
+DESCRIPTION:Cena temprana para tomar lugar.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-c13-drones@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270213T123000Z
+DTEND:20270213T140000Z
+SUMMARY:Show de drones en la plaza Chaotianmen · 朝天门广场
+DESCRIPTION:Gratis. Llegar a las ~19:30. Desde Chaotianmen algunos textos
+  se ven al revés\; Hongyadong también sirve.\nCómo llegar: A pie desd
+ e Jiefangbei\, ~20 min
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-02-14@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270213T224500Z
+DTEND:20270213T230000Z
+SUMMARY:Día 25 · Buda de Leshan · parte 07:30 Tren hacia Leshan
+DESCRIPTION:Chongqing → Leshan → Chengdu — Buda de Leshan\nAlojamie
+ nto: Leeds Hotel · Chengdu\n\n07:30 · Tren hacia Leshan (乐山站)\n 
+   Propuesta: ir de Chongqing a Leshan y de ahí a Chengdu\, sin volver a
+ trás. Verificar trenes directos\; si no hay\, ir por Chengdu.\n11:00 ·
+  Buda gigante de Leshan (乐山大佛)\n   71 m tallado en la roca. Baja
+ r por la escalera junto al Buda o verlo desde el barco (~30 min).\n16:00
+  · Tren Leshan → Chengdu (成都东站)\n   ~1 h.\n19:30 · Tofu mapo
+  en Chen Mapo Tofu (陈麻婆豆腐)\n   El restaurante que inventó el 
+ plato.\n\n★ Día laboral de recuperación en China: algo menos de gent
+ e.\n\nDetalle\, mapas y tarjetas de taxi en la app: https://claude.ai/ar
+ tifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 25 · Buda de Leshan · parte 07:30 Tren hacia Leshan
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-02-14@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270213T130000Z
+DTEND:20270213T131000Z
+SUMMARY:Mañana: Buda de Leshan · primera actividad 07:30
+DESCRIPTION:Chongqing → Leshan → Chengdu — Buda de Leshan\nAlojamie
+ nto: Leeds Hotel · Chengdu\n\n07:30 · Tren hacia Leshan (乐山站)\n 
+   Propuesta: ir de Chongqing a Leshan y de ahí a Chengdu\, sin volver a
+ trás. Verificar trenes directos\; si no hay\, ir por Chengdu.\n11:00 ·
+  Buda gigante de Leshan (乐山大佛)\n   71 m tallado en la roca. Baja
+ r por la escalera junto al Buda o verlo desde el barco (~30 min).\n16:00
+  · Tren Leshan → Chengdu (成都东站)\n   ~1 h.\n19:30 · Tofu mapo
+  en Chen Mapo Tofu (陈麻婆豆腐)\n   El restaurante que inventó el 
+ plato.\n\n★ Día laboral de recuperación en China: algo menos de gent
+ e.\n\nDetalle\, mapas y tarjetas de taxi en la app: https://claude.ai/ar
+ tifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Buda de Leshan · primera actividad 07:30
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:act-d14-tren@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270213T233000Z
+DTEND:20270214T030000Z
+SUMMARY:Tren hacia Leshan · 乐山站
+DESCRIPTION:Propuesta: ir de Chongqing a Leshan y de ahí a Chengdu\, sin
+  volver atrás. Verificar trenes directos\; si no hay\, ir por Chengdu.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-d14-buda@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270214T030000Z
+DTEND:20270214T080000Z
+SUMMARY:Buda gigante de Leshan · 乐山大佛
+DESCRIPTION:71 m tallado en la roca. Bajar por la escalera junto al Buda 
+ o verlo desde el barco (~30 min).
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-d14-chengdu@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270214T080000Z
+DTEND:20270214T113000Z
+SUMMARY:Tren Leshan → Chengdu · 成都东站
+DESCRIPTION:~1 h.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-d14-mapo@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270214T113000Z
+DTEND:20270214T130000Z
+SUMMARY:Tofu mapo en Chen Mapo Tofu · 陈麻婆豆腐
+DESCRIPTION:El restaurante que inventó el plato.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-02-15@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270214T224500Z
+DTEND:20270214T230000Z
+SUMMARY:Día 26 · Pandas y ciudad · parte 07:30 Base de Investigación 
+ del Panda Gigante
+DESCRIPTION:Chengdu — Pandas y ciudad\nAlojamiento: Leeds Hotel · Chen
+ gdu\n\n07:30 · Base de Investigación del Panda Gigante (成都大熊
+ 猫繁育研究基地)\n   Llegar a la apertura: los pandas están activ
+ os cuando comen\, en la mañana. Entrada con pasaporte.\n14:00 · Callej
+ ones Kuanzhai (宽窄巷子)\n   Casas de té y ópera de Sichuan (cambi
+ o de máscaras).\n18:00 · Calle Jinli y cena de Sichuan (锦里)\n   Co
+ mida callejera iluminada.\n\nDetalle\, mapas y tarjetas de taxi en la ap
+ p: https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 26 · Pandas y ciudad · parte 07:30 Base de Investigaci
+ ón del Panda Gigante
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-02-15@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270214T130000Z
+DTEND:20270214T131000Z
+SUMMARY:Mañana: Pandas y ciudad · primera actividad 07:30
+DESCRIPTION:Chengdu — Pandas y ciudad\nAlojamiento: Leeds Hotel · Chen
+ gdu\n\n07:30 · Base de Investigación del Panda Gigante (成都大熊
+ 猫繁育研究基地)\n   Llegar a la apertura: los pandas están activ
+ os cuando comen\, en la mañana. Entrada con pasaporte.\n14:00 · Callej
+ ones Kuanzhai (宽窄巷子)\n   Casas de té y ópera de Sichuan (cambi
+ o de máscaras).\n18:00 · Calle Jinli y cena de Sichuan (锦里)\n   Co
+ mida callejera iluminada.\n\nDetalle\, mapas y tarjetas de taxi en la ap
+ p: https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Pandas y ciudad · primera actividad 07:30
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:act-d15-pandas@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270214T233000Z
+DTEND:20270215T060000Z
+SUMMARY:Base de Investigación del Panda Gigante · 成都大熊猫繁育
+ 研究基地
+DESCRIPTION:Llegar a la apertura: los pandas están activos cuando comen\
+ , en la mañana. Entrada con pasaporte.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-d15-kuanzhai@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270215T060000Z
+DTEND:20270215T100000Z
+SUMMARY:Callejones Kuanzhai · 宽窄巷子
+DESCRIPTION:Casas de té y ópera de Sichuan (cambio de máscaras).\nCóm
+ o llegar: Metro o Didi\, ~40 min
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-d15-jinli@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270215T100000Z
+DTEND:20270215T113000Z
+SUMMARY:Calle Jinli y cena de Sichuan · 锦里
+DESCRIPTION:Comida callejera iluminada.\nCómo llegar: Didi ~15 min
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-02-16@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270215T231500Z
+DTEND:20270215T233000Z
+SUMMARY:Día 27 · Muralla en bicicleta · parte 08:00 Tren Chengdu → X
+ i'an
+DESCRIPTION:Chengdu → Xi'an — Muralla en bicicleta\nAlojamiento: Holi
+ day Inn Express · Xi'an Bell Tower\n\n08:00 · Tren Chengdu → Xi'an (
+ 西安北站)\n   ~3 h 30 en alta velocidad.\n14:00 · Muralla de Xi'an 
+ en bicicleta (西安城墙)\n   14 km de vuelta completa. Entrar por la 
+ puerta sur (Yongningmen). Arriendo de bicis sobre la muralla.\n17:30 · 
+ Barrio musulmán (回民街)\n   Roujiamo\, fideos biangbiang y brocheta
+ s de cordero.\n20:00 · Datang Everbright City (大唐不夜城)\n   Ave
+ nida iluminada con espectáculos de la dinastía Tang. En la planilla ap
+ arecía también como “Datang Square” el jueves 11 en Chongqing: es 
+ este mismo lugar.\n\nDetalle\, mapas y tarjetas de taxi en la app: https
+ ://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 27 · Muralla en bicicleta · parte 08:00 Tren Chengdu 
+ → Xi'an
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-02-16@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270215T130000Z
+DTEND:20270215T131000Z
+SUMMARY:Mañana: Muralla en bicicleta · primera actividad 08:00
+DESCRIPTION:Chengdu → Xi'an — Muralla en bicicleta\nAlojamiento: Holi
+ day Inn Express · Xi'an Bell Tower\n\n08:00 · Tren Chengdu → Xi'an (
+ 西安北站)\n   ~3 h 30 en alta velocidad.\n14:00 · Muralla de Xi'an 
+ en bicicleta (西安城墙)\n   14 km de vuelta completa. Entrar por la 
+ puerta sur (Yongningmen). Arriendo de bicis sobre la muralla.\n17:30 · 
+ Barrio musulmán (回民街)\n   Roujiamo\, fideos biangbiang y brocheta
+ s de cordero.\n20:00 · Datang Everbright City (大唐不夜城)\n   Ave
+ nida iluminada con espectáculos de la dinastía Tang. En la planilla ap
+ arecía también como “Datang Square” el jueves 11 en Chongqing: es 
+ este mismo lugar.\n\nDetalle\, mapas y tarjetas de taxi en la app: https
+ ://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Muralla en bicicleta · primera actividad 08:00
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:act-x16-tren@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270216T000000Z
+DTEND:20270216T060000Z
+SUMMARY:Tren Chengdu → Xi'an · 西安北站
+DESCRIPTION:~3 h 30 en alta velocidad.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-x16-muralla@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270216T060000Z
+DTEND:20270216T093000Z
+SUMMARY:Muralla de Xi'an en bicicleta · 西安城墙
+DESCRIPTION:14 km de vuelta completa. Entrar por la puerta sur (Yongningm
+ en). Arriendo de bicis sobre la muralla.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-x16-huimin@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270216T093000Z
+DTEND:20270216T120000Z
+SUMMARY:Barrio musulmán · 回民街
+DESCRIPTION:Roujiamo\, fideos biangbiang y brochetas de cordero.\nCómo l
+ legar: A pie desde la Torre de la Campana
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-x16-datang@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270216T120000Z
+DTEND:20270216T133000Z
+SUMMARY:Datang Everbright City · 大唐不夜城
+DESCRIPTION:Avenida iluminada con espectáculos de la dinastía Tang. En 
+ la planilla aparecía también como “Datang Square” el jueves 11 en 
+ Chongqing: es este mismo lugar.\nCómo llegar: Metro línea 4\, ~20 min
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-02-17@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270216T233000Z
+DTEND:20270216T234500Z
+SUMMARY:Día 28 · Guerreros de Terracota · parte 08:30 Guerreros de Ter
+ racota
+DESCRIPTION:Xi'an → Beijing — Guerreros de Terracota\nAlojamiento: Ne
+ w Jinshan Apartment · Beijing\n\n08:30 · Guerreros de Terracota (秦
+ 始皇帝陵博物院 兵马俑)\n   ~1 h al este de Xi'an. Fosa 1 prime
+ ro. Calcular 3 h de visita. Entrada con pasaporte.\n15:00 · Xi'an → B
+ eijing (¿tren o vuelo?) (北京西站)\n   Por definir. Tren de alta ve
+ locidad ~4 h 30\, de estación a centro. Volar ahorra poco contando aero
+ puertos.\n\n⚠ Ojo: Salir con las maletas en la mañana y guardarlas en
+  la consigna del museo o de la estación\, para no volver al hotel.\n\nD
+ etalle\, mapas y tarjetas de taxi en la app: https://claude.ai/artifact/
+ VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 28 · Guerreros de Terracota · parte 08:30 Guerreros de
+  Terracota
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-02-17@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270216T130000Z
+DTEND:20270216T131000Z
+SUMMARY:Mañana: Guerreros de Terracota · primera actividad 08:30
+DESCRIPTION:Xi'an → Beijing — Guerreros de Terracota\nAlojamiento: Ne
+ w Jinshan Apartment · Beijing\n\n08:30 · Guerreros de Terracota (秦
+ 始皇帝陵博物院 兵马俑)\n   ~1 h al este de Xi'an. Fosa 1 prime
+ ro. Calcular 3 h de visita. Entrada con pasaporte.\n15:00 · Xi'an → B
+ eijing (¿tren o vuelo?) (北京西站)\n   Por definir. Tren de alta ve
+ locidad ~4 h 30\, de estación a centro. Volar ahorra poco contando aero
+ puertos.\n\n⚠ Ojo: Salir con las maletas en la mañana y guardarlas en
+  la consigna del museo o de la estación\, para no volver al hotel.\n\nD
+ etalle\, mapas y tarjetas de taxi en la app: https://claude.ai/artifact/
+ VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Guerreros de Terracota · primera actividad 08:30
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:act-b17-terracota@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270217T003000Z
+DTEND:20270217T070000Z
+SUMMARY:Guerreros de Terracota · 秦始皇帝陵博物院 兵马俑
+DESCRIPTION:~1 h al este de Xi'an. Fosa 1 primero. Calcular 3 h de visita
+ . Entrada con pasaporte.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-b17-viaje@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270217T070000Z
+DTEND:20270217T083000Z
+SUMMARY:Xi'an → Beijing (¿tren o vuelo?) · 北京西站
+DESCRIPTION:Por definir. Tren de alta velocidad ~4 h 30\, de estación a 
+ centro. Volar ahorra poco contando aeropuertos.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-02-18@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270217T224500Z
+DTEND:20270217T230000Z
+SUMMARY:Día 29 · Gran Muralla y Templo del Cielo · parte 07:30 Gran Mu
+ ralla (Mutianyu)
+DESCRIPTION:Beijing — Gran Muralla y Templo del Cielo\nAlojamiento: New
+  Jinshan Apartment · Beijing\n\n07:30 · Gran Muralla (Mutianyu) (慕
+ 田峪长城)\n   ~1 h 30 en auto. Teleférico y tobogán de bajada. Muc
+ ho viento: guantes y gorro.\n15:00 · Templo del Cielo (天坛公园)\n 
+   Comprar entradas antes. Los edificios cierran antes que el parque en i
+ nvierno.\n16:30 · Hongqiao Market (perlas y recuerdos) (红桥市场)\n
+    Regatear.\n19:00 · Pato laqueado (四季民福烤鸭店)\n   Siji Mi
+ nfu: muy popular\, sacar número temprano.\n\nDetalle\, mapas y tarjetas
+  de taxi en la app: https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 29 · Gran Muralla y Templo del Cielo · parte 07:30 Gra
+ n Muralla (Mutianyu)
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-02-18@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270217T130000Z
+DTEND:20270217T131000Z
+SUMMARY:Mañana: Gran Muralla y Templo del Cielo · primera actividad 07:
+ 30
+DESCRIPTION:Beijing — Gran Muralla y Templo del Cielo\nAlojamiento: New
+  Jinshan Apartment · Beijing\n\n07:30 · Gran Muralla (Mutianyu) (慕
+ 田峪长城)\n   ~1 h 30 en auto. Teleférico y tobogán de bajada. Muc
+ ho viento: guantes y gorro.\n15:00 · Templo del Cielo (天坛公园)\n 
+   Comprar entradas antes. Los edificios cierran antes que el parque en i
+ nvierno.\n16:30 · Hongqiao Market (perlas y recuerdos) (红桥市场)\n
+    Regatear.\n19:00 · Pato laqueado (四季民福烤鸭店)\n   Siji Mi
+ nfu: muy popular\, sacar número temprano.\n\nDetalle\, mapas y tarjetas
+  de taxi en la app: https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Gran Muralla y Templo del Cielo · primera actividad
+  07:30
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:act-b18-muralla@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270217T233000Z
+DTEND:20270218T070000Z
+SUMMARY:Gran Muralla (Mutianyu) · 慕田峪长城
+DESCRIPTION:~1 h 30 en auto. Teleférico y tobogán de bajada. Mucho vien
+ to: guantes y gorro.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-b18-templo@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270218T070000Z
+DTEND:20270218T083000Z
+SUMMARY:Templo del Cielo · 天坛公园
+DESCRIPTION:Comprar entradas antes. Los edificios cierran antes que el pa
+ rque en invierno.\nCómo llegar: Auto de vuelta ~1 h 30
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-b18-hongqiao@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270218T083000Z
+DTEND:20270218T110000Z
+SUMMARY:Hongqiao Market (perlas y recuerdos) · 红桥市场
+DESCRIPTION:Regatear.\nCómo llegar: Cruzando la calle desde la puerta es
+ te\, ~5 min
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:act-b18-pato@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270218T110000Z
+DTEND:20270218T123000Z
+SUMMARY:Pato laqueado · 四季民福烤鸭店
+DESCRIPTION:Siji Minfu: muy popular\, sacar número temprano.
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-02-19@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270218T233000Z
+DTEND:20270218T234500Z
+SUMMARY:Día 30 · Ciudad Prohibida y vuelo de vuelta · parte 08:30 Ciud
+ ad Prohibida
+DESCRIPTION:Beijing → Vancouver — Ciudad Prohibida y vuelo de vuelta\
+ nAlojamiento: Vuelo nocturno\n\n08:30 · Ciudad Prohibida (故宫博物
+ 院)\n   Reserva obligatoria con pasaporte\, abre ~7 días antes y se ag
+ ota. Entrada por la puerta sur (Wumen).\n11:30 · Mirador del parque Jin
+ gshan (景山公园)\n   La mejor vista de la Ciudad Prohibida.\n16:30 
+ · Ir al aeropuerto de Beijing Capital (PEK) (北京首都国际机场)\
+ n   Pasar por las maletas antes. ~45 min a 1 h 15 según tráfico.\n20:0
+ 5 · Vuelo PEK → Vancouver (YVR)\n   Llega vie 19 a las 15:45 (hora de
+  Vancouver) · 10 h 40 de vuelo\n17:00 · Opcional: Vancouver de noche (
+ escala de 8 h 30) (Gastown\, Vancouver)\n   Migración + Canada Line al 
+ centro (~30 min). Gastown\, Canada Place y cena. Volver al aeropuerto a 
+ las ~22:00. En febrero oscurece ~17:30.\n\n⚠ Ojo: Universal Beijing qu
+ eda lejos (Tongzhou) y el vuelo es en la noche: no cabe con la Ciudad Pr
+ ohibida. Recomiendo descartarlo.\n\n★ Escala en Vancouver: 8 h 30 (15:
+ 45 a 00:15). Tras migración quedan unas 3–4 h afuera. El vuelo a Mont
+ real es nacional: con 2 h de margen basta. Vienen de 10 h de vuelo: es m
+ ás un paseo nocturno que turismo.\n\n★ Antes de salir del aeropuerto\
+ , confirmar en Beijing si las maletas van directo a Santiago. Si no\, en
+  Vancouver se retiran y se vuelven a despachar.\n\nDetalle\, mapas y tar
+ jetas de taxi en la app: https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE
+ 4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 30 · Ciudad Prohibida y vuelo de vuelta · parte 08:30 
+ Ciudad Prohibida
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-02-19@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270218T130000Z
+DTEND:20270218T131000Z
+SUMMARY:Mañana: Ciudad Prohibida y vuelo de vuelta · primera actividad 
+ 08:30
+DESCRIPTION:Beijing → Vancouver — Ciudad Prohibida y vuelo de vuelta\
+ nAlojamiento: Vuelo nocturno\n\n08:30 · Ciudad Prohibida (故宫博物
+ 院)\n   Reserva obligatoria con pasaporte\, abre ~7 días antes y se ag
+ ota. Entrada por la puerta sur (Wumen).\n11:30 · Mirador del parque Jin
+ gshan (景山公园)\n   La mejor vista de la Ciudad Prohibida.\n16:30 
+ · Ir al aeropuerto de Beijing Capital (PEK) (北京首都国际机场)\
+ n   Pasar por las maletas antes. ~45 min a 1 h 15 según tráfico.\n20:0
+ 5 · Vuelo PEK → Vancouver (YVR)\n   Llega vie 19 a las 15:45 (hora de
+  Vancouver) · 10 h 40 de vuelo\n17:00 · Opcional: Vancouver de noche (
+ escala de 8 h 30) (Gastown\, Vancouver)\n   Migración + Canada Line al 
+ centro (~30 min). Gastown\, Canada Place y cena. Volver al aeropuerto a 
+ las ~22:00. En febrero oscurece ~17:30.\n\n⚠ Ojo: Universal Beijing qu
+ eda lejos (Tongzhou) y el vuelo es en la noche: no cabe con la Ciudad Pr
+ ohibida. Recomiendo descartarlo.\n\n★ Escala en Vancouver: 8 h 30 (15:
+ 45 a 00:15). Tras migración quedan unas 3–4 h afuera. El vuelo a Mont
+ real es nacional: con 2 h de margen basta. Vienen de 10 h de vuelo: es m
+ ás un paseo nocturno que turismo.\n\n★ Antes de salir del aeropuerto\
+ , confirmar en Beijing si las maletas van directo a Santiago. Si no\, en
+  Vancouver se retiran y se vuelven a despachar.\n\nDetalle\, mapas y tar
+ jetas de taxi en la app: https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE
+ 4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Ciudad Prohibida y vuelo de vuelta · primera activi
+ dad 08:30
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-02-20@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270220T120000Z
+DTEND:20270220T121500Z
+SUMMARY:Día 31 · Escalas en Canadá · parte 00:15 Vancouver (YVR) → 
+ Montreal (YUL)
+DESCRIPTION:Vancouver → Montreal — Escalas en Canadá\n\n00:15 · Van
+ couver (YVR) → Montreal (YUL)\n   Llega 07:10. Escala previa de 8 h en
+  Vancouver: con eTA pueden salir a pasear.\n08:30 · Opcional: Viejo Mon
+ treal\, Notre-Dame\, bagels y poutine (Vieux-Montréal)\n   Escala de 10
+  h 40\, la mejor para salir. Llegan en vuelo nacional: sin migración. B
+ us 747 al centro ~45–60 min. Unas 5 h en la ciudad. Estar de vuelta a 
+ las ~15:00 (vuelo internacional). En febrero hace ~−10 °C: abrigo pue
+ sto.\n17:50 · Montreal (YUL) → Santiago (SCL)\n   Llega dom 21 a las 
+ 06:50\n\nDetalle\, mapas y tarjetas de taxi en la app: https://claude.ai
+ /artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 31 · Escalas en Canadá · parte 00:15 Vancouver (YVR) 
+ → Montreal (YUL)
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-02-20@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270220T050000Z
+DTEND:20270220T051000Z
+SUMMARY:Mañana: Escalas en Canadá · primera actividad 00:15
+DESCRIPTION:Vancouver → Montreal — Escalas en Canadá\n\n00:15 · Van
+ couver (YVR) → Montreal (YUL)\n   Llega 07:10. Escala previa de 8 h en
+  Vancouver: con eTA pueden salir a pasear.\n08:30 · Opcional: Viejo Mon
+ treal\, Notre-Dame\, bagels y poutine (Vieux-Montréal)\n   Escala de 10
+  h 40\, la mejor para salir. Llegan en vuelo nacional: sin migración. B
+ us 747 al centro ~45–60 min. Unas 5 h en la ciudad. Estar de vuelta a 
+ las ~15:00 (vuelo internacional). En febrero hace ~−10 °C: abrigo pue
+ sto.\n17:50 · Montreal (YUL) → Santiago (SCL)\n   Llega dom 21 a las 
+ 06:50\n\nDetalle\, mapas y tarjetas de taxi en la app: https://claude.ai
+ /artifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Escalas en Canadá · primera actividad 00:15
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dia-2027-02-21@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270221T090500Z
+DTEND:20270221T092000Z
+SUMMARY:Día 32 · Llegada a casa · parte 06:50 Llegada a Santiago
+DESCRIPTION:Santiago — Llegada a casa\n\n06:50 · Llegada a Santiago\n\
+ n★ La planilla dice “sábado 21”\, pero la llegada es el domingo 2
+ 1.\n\nDetalle\, mapas y tarjetas de taxi en la app: https://claude.ai/ar
+ tifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Día 32 · Llegada a casa · parte 06:50 Llegada a Santiago
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-2027-02-21@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270221T020000Z
+DTEND:20270221T021000Z
+SUMMARY:Mañana: Llegada a casa · primera actividad 06:50
+DESCRIPTION:Santiago — Llegada a casa\n\n06:50 · Llegada a Santiago\n\
+ n★ La planilla dice “sábado 21”\, pero la llegada es el domingo 2
+ 1.\n\nDetalle\, mapas y tarjetas de taxi en la app: https://claude.ai/ar
+ tifact/VHQq4APByA2ZZvXUeDLE4h
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mañana: Llegada a casa · primera actividad 06:50
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:act-v-llegada@ruta-asia-2027
+DTSTAMP:20261121T120000Z
+DTSTART:20270221T095000Z
+DTEND:20270221T112000Z
+SUMMARY:Llegada a Santiago
+DESCRIPTION:
+URL:https://claude.ai/artifact/VHQq4APByA2ZZvXUeDLE4h
+END:VEVENT
+END:VCALENDAR
